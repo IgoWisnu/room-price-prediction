@@ -1,0 +1,265 @@
+================================================================================
+  BALI ROOM PRICE MODEL — USAGE DOCUMENTATION
+  Model version : v4
+  Generated     : 2026-05-11
+================================================================================
+
+OVERVIEW
+--------
+  This model predicts the nightly room price (IDR) for hotels, villas and
+  resorts in Bali, Indonesia.  It was trained on data scraped from tiket.com
+  using an XGBoost regressor with Optuna hyperparameter tuning.
+
+  Target variable : log_price  (log1p of price in IDR)
+  Output          : Call numpy.expm1(log_price) to recover IDR value.
+  Test MAPE       : ~36.5%  |  R² : 0.756  |  RMSE_log : 0.438
+
+
+FILES NEEDED
+------------
+  bali_price_model.json    — XGBoost model weights  (load with xgb.Booster)
+  bali_preprocessor.pkl    — Contains:
+                               - target_encoder       : fitted TargetEncoder for kecamatan
+                               - feature_cols         : ordered list of 32 feature names
+                               - room_size_m2_median  : 34.0  (imputation fallback)
+
+
+DEPENDENCIES
+------------
+  pip install xgboost category_encoders scikit-learn pandas numpy
+
+
+QUICK START — SINGLE PREDICTION
+---------------------------------
+
+  import numpy as np
+  import pandas as pd
+  import pickle
+  import xgboost as xgb
+
+  # 1. Load model and preprocessor
+  model = xgb.Booster()
+  model.load_model("bali_price_model.json")
+
+  with open("bali_preprocessor.pkl", "rb") as f:
+      preproc = pickle.load(f)
+
+  # 2. Build a single-room input dict
+  room = {
+      # --- Numeric ---
+      "log_review"        : np.log1p(350),   # log1p of number of reviews
+      "star_rating"       : 4,               # 1–5 stars
+      "rating"            : 8.5,             # guest score (0.0 = no reviews)
+      "no_review"         : 0,               # 1 if rating == 0.0, else 0
+      "room_size_m2"      : 35.0,            # set to None if unknown
+      # --- GPS ---
+      "latitude"          : -8.6905,         # from scraper / Google Maps
+      "longitude"         : 115.1673,
+      # --- Brand ---
+      "is_luxury_brand"   : 0,               # 1 if hotel is a luxury chain
+      # --- Hotel facilities (from hotel_facilities text) ---
+      "has_pool"          : 1,
+      "has_wifi"          : 1,
+      "has_ac"            : 0,
+      "has_gym"           : 0,
+      "has_spa"           : 1,
+      "has_restaurant"    : 1,
+      "has_parking"       : 1,
+      # --- Room / package flags ---
+      "has_breakfast"     : 1,
+      "has_kitchen"       : 0,
+      "has_bathtub"       : 1,
+      "has_balcony"       : 0,
+      "has_ocean_view"    : 0,               # from room_facilities column
+      "is_free_cancellation": 0,
+      "room_tier"         : 2,               # 1=standard,2=superior/deluxe,3=premier,
+                                             # 4=suite,5=villa/penthouse
+      "value_added_count" : 1,               # count of extras in package_value_added
+      # --- Room view / pool flags (from room_name) ---
+      "has_pool_view"     : 1,
+      "has_garden_view"   : 0,
+      "has_ocean_view2"   : 0,               # ocean/sea/beach view in room name
+      "has_private_pool"  : 0,
+      "has_pool_access"   : 0,
+      "has_nature_view"   : 0,               # jungle/valley/mountain view
+      "has_city_view"     : 0,
+      # --- Kecamatan (provide the raw text — encoder handles it) ---
+      "kecamatan_cleaned" : "Seminyak",
+  }
+
+  # 3. Build DataFrame and encode kecamatan
+  X = pd.DataFrame([room])
+  X["room_size_m2"] = X["room_size_m2"].fillna(preproc["room_size_m2_median"])
+  X["kecamatan_te"] = preproc["target_encoder"].transform(
+      X[["kecamatan_cleaned"]]
+  )["kecamatan_cleaned"]
+
+  # 4. Select features in the correct order and predict
+  dmat   = xgb.DMatrix(X[preproc["feature_cols"]])
+  log_p  = model.predict(dmat)[0]
+  price_idr = int(np.expm1(log_p))
+
+  print(f"Predicted price : IDR {price_idr:,}")
+
+
+BATCH PREDICTION (Multiple Rooms)
+----------------------------------
+
+  # df_rooms must have all the columns listed above EXCEPT kecamatan_te.
+  # Add kecamatan_te from kecamatan_cleaned, then predict.
+
+  df_rooms["room_size_m2"] = df_rooms["room_size_m2"].fillna(
+      preproc["room_size_m2_median"]
+  )
+  df_rooms["kecamatan_te"] = preproc["target_encoder"].transform(
+      df_rooms[["kecamatan_cleaned"]]
+  )["kecamatan_cleaned"]
+
+  dmat  = xgb.DMatrix(df_rooms[preproc["feature_cols"]])
+  preds = np.expm1(model.predict(dmat)).astype(int)
+  df_rooms["predicted_price_idr"] = preds
+
+
+FEATURE REFERENCE
+-----------------
+
+  Feature              Type   Notes
+  -------------------  -----  -----------------------------------------------
+  log_review           float  np.log1p(review_count)
+  star_rating          int    1–5  (0 if not rated)
+  rating               float  Guest score, e.g. 8.5.  Use 0.0 if no reviews.
+  no_review            int    1 if rating==0, else 0
+  room_size_m2         floa t  Impute with 34.0 if unknown
+  latitude             float  GPS latitude  (e.g. -8.69 for Seminyak)
+  longitude            float  GPS longitude (e.g. 115.17 for Seminyak)
+  is_luxury_brand      int    1 if hotel matches luxury chain list (see below)
+  has_pool             int    From hotel_facilities text
+  has_wifi             int    From hotel_facilities text
+  has_ac               int    From hotel_facilities text
+  has_gym              int    From hotel_facilities text
+  has_spa              int    From hotel_facilities text
+  has_restaurant       int    From hotel_facilities text
+  has_parking          int    From hotel_facilities text
+  has_breakfast        int    From package_features text
+  has_kitchen          int    From room_facilities text
+  has_bathtub          int    From room_facilities text
+  has_balcony          int    From room_facilities text (0 in current data)
+  has_ocean_view       int    From room_facilities text (0 in current data)
+  is_free_cancellation int    1 if "100% Refund" in package_cancellation
+  room_tier            int    1=Standard, 2=Superior/Deluxe, 3=Premier/Junior Suite,
+                              4=Suite, 5=Villa/Presidential/Penthouse
+  value_added_count    int    Count of extras in package_value_added (0 or 1)
+  has_pool_view        int    "pool view" in room_name
+  has_garden_view      int    "garden view" in room_name
+  has_ocean_view2      int    "ocean/sea/beach view" in room_name
+  has_private_pool     int    "private pool" in room_name
+  has_pool_access      int    "pool access" in room_name
+  has_nature_view      int    "jungle/valley/mountain view" in room_name
+  has_city_view        int    "city view" in room_name
+  kecamatan_te         float  DO NOT set manually — encoded from kecamatan_cleaned
+                              using preproc["target_encoder"]
+
+
+KECAMATAN REFERENCE (Common Bali Locations)
+-------------------------------------------
+
+  Use the exact spelling shown below for kecamatan_cleaned:
+
+  Kuta            — Main tourist hub, shopping, nightlife
+  Seminyak        — Upscale beach clubs, boutique hotels
+  Legian          — Between Kuta and Seminyak, mid-range hotels
+  Canggu          — Surf breaks, digital nomad scene
+  Jimbaran        — Seafood beach, quieter south
+  Nusa Dua        — Luxury resort enclave, gated
+  Ubud            — Cultural center, rice terraces, inland
+  Sanur           — Family-friendly, calm beach, east coast
+  Uluwatu         — Clifftop, surf, views
+  Tegallalang     — Rice terraces, north of Ubud
+  Lovina          — North coast, quieter, dolphins
+  Kintamani       — Volcano area, cool climate
+  Candidasa       — East coast, quieter
+  West Denpasar   — City area (Denpasar Barat)
+  South Denpasar  — City area (Denpasar Selatan)
+
+  If the kecamatan is unknown, use "Unknown". The TargetEncoder will apply
+  a smoothed global mean price as the encoded value.
+
+
+LUXURY BRAND LIST
+-----------------
+
+  The following keywords (case-insensitive) trigger is_luxury_brand = 1
+  when found in the hotel name:
+
+  aman, bvlgari, bulgari, four seasons, ritz-carlton, ritz carlton,
+  st. regis, st regis, six senses, mandapa, raffles, alila, anantara,
+  intercontinental, westin, kempinski, w bali, ayana, the kayon,
+  pita maha, viceroy, plataran, maya ubud, maya sanur,
+  mulia, sofitel, hilton, hyatt, sheraton, le meridien
+
+
+ROOM TIER MAPPING
+-----------------
+
+  Tier 5 — Villa / Presidential / Penthouse / Pool Suite
+  Tier 4 — Suite (exc. Junior Suite) / Family Suite / Corner Suite
+  Tier 3 — Premier / Junior Suite / Executive / Privilege
+  Tier 2 — Superior / Deluxe / Comfort
+  Tier 1 — Standard / Economy / Budget / Basic / Classic
+            (default for unrecognised room names)
+
+
+MODEL ACCURACY NOTES
+--------------------
+
+  - Average error is ~36% MAPE across the full test set.
+  - Error distribution on the 466-row test set:
+      < 10% error  : 17.0%  of rooms  (near-perfect)
+      10–25% error : 22.1%  of rooms  (good)
+      25–50% error : 36.7%  of rooms  (acceptable)
+      > 50% error  : 24.2%  of rooms  (high error)
+
+  - The model tends to OVER-predict (284 vs 182 under-predictions).
+    Reason: most over-predictions are for small budget guesthouses or
+    homestays where the price is lower than what their facilities suggest.
+
+  - Worst predictions occur for:
+      a) Ultra-luxury suites (>5M IDR) — brand prestige not fully captured
+      b) Rooms with unusual pricing not correlated with listed facilities
+      c) Properties in sparse kecamatan (e.g. Nusa Penida, Lovina) where
+         training data is limited
+
+  - Best predictions occur for mid-range properties (500k–2M IDR) in
+    Seminyak, Kuta, Legian, and Ubud.
+
+
+PROPERTY TYPE ENCODER REFERENCE
+---------------------------------
+
+  The model uses LabelEncoder for property_type. However, property_type is
+  NOT an input for inference — the model only needs property_type_enc (int).
+  Mapping (alphabetical order, 0-indexed):
+
+  0 = Capsule Hotel
+  1 = Guest House
+  2 = Homestay
+  3 = Hostel
+  4 = Hotel
+  5 = Private Aparthotel
+  6 = Private Hostel
+  7 = Resort
+  8 = Resort Villa
+
+  Set property_type_enc to 4 (Hotel) as a safe default if unknown.
+
+
+OUTPUT FILES
+------------
+
+  model_outputs/test_predictions_full.csv — All 466 test set predictions,
+    sorted by error % descending. Columns include:
+    hotel_name, kecamatan, room_name, true_price_idr, pred_price_idr,
+    diff_idr, abs_diff_idr, error_pct, direction (OVER/UNDER),
+    plus all feature flag values used for the prediction.
+
+================================================================================

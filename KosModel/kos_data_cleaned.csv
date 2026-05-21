@@ -1,0 +1,936 @@
+name,price,location,ac,air_panas,kamar_mandi_dalam,parkir,dispenser,kulkas,kursi,lemari,meja,parkir_mobil,ruang_tamu,shower,tv,wastafel,wifi,cctv,swimming_pool,kasur_bed_springbed,amenity_count,premium_count,amenity_density,has_private_bath_ac,luxury_score,is_luxury,location_tier,location_enc
+Kost Lullaby Symphony Delux Balkon Abiansemal Badung,2400000,abiansemal,1,1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,8,5,0.4444444444444444,1,3,0,2,0
+Kost Gwk Stay Uluwatu Kuta Selatan Badung (Tipe B),2750000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Kost Purnama House,2000000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+KOST NYAMAN & PRIVACY,1750000,badung,1,1,1,1,0,1,0,1,0,1,0,1,1,0,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Senja Kuta Badung (Eksklusif),2450000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kost MS Guesthouse UNUD 1 Standart Kuta Selatan Badung,2700000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+"Sewa Kost Rumah Dino (Harian, Mingguan, Bulanan, Tahunan)",1500000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+Disewakan Rumah kost harian /bulanan Kalimas Residence (Promo),2400000,badung,1,1,1,1,0,1,0,1,0,1,0,1,1,0,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Terima Kost Di JIMBARAN. harian/mingguan/bulanan (FULL FURNI (Tipe B),1450000,badung,1,1,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0,1,9,7,0.5,1,5,1,2,1
+Kost INCLUDE LISTRIK Nakula,1800000,badung,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,2,1
+Kost Grand Kesambi Exclusive,3500000,badung,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,1,8,6,0.4444444444444444,1,4,1,2,1
+"oom for rent Daily, Monthly, Yearly in Kuta",2300000,badung,1,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+KoolKost near Siloam Hospital,1600000,badung,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,7,5,0.3888888888888889,1,3,0,2,1
+Kost Bali Tulip Dalung Badung,2300000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Kost murah nyaman (Tipe B),2750000,badung,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,2,1
+Kost Puspa Ayu 10X Kuta - Dekat Discovery shopping Mall,2500000,badung,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Kos Nyaman Jimbaran Area,1000000,badung,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,7,4,0.3888888888888889,1,2,0,2,1
+Kos Murah di Kuta Bali Termasuk Listrik Free Wifi,1000000,badung,1,1,1,1,0,0,1,0,1,0,0,1,0,1,1,0,0,1,10,5,0.5555555555555556,1,3,0,2,1
+Kost Pondok Adnyana Kuta Badung,4000000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Kos elite airport tuban kuta bali,3000000,badung,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,1,12,6,0.6666666666666666,1,4,1,2,1
+disewakan kamar,2600000,badung,1,1,1,1,0,0,0,0,0,1,0,1,1,0,1,0,0,1,9,6,0.5,1,4,1,2,1
+Kost The W Guesthouse Tipe Deluxe 1 Kuta Selatan Badung,2350000,badung,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,1,0,1,11,5,0.6111111111111112,1,3,0,2,1
+"kos ac harian,mingguan,bulanan di kuta bali",2500000,badung,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,5,4,0.2777777777777778,1,3,0,2,1
+Mezzanine apartment at Kerobokan,6000000,badung,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,7,6,0.3888888888888889,1,4,1,2,1
+Kos kosan lengkap (Eksklusif),3750000,badung,1,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,8,8,0.4444444444444444,1,6,1,2,1
+Rumah Kos PANAMA,1000000,badung,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,6,3,0.3333333333333333,0,1,0,2,1
+terima kost unggasan dekat gwk,900000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0.16666666666666666,0,0,0,2,1
+New Kost Exclusive at Jimbaran,1500000,badung,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+Kost Pandawa Dua Nusa Dua,2000000,badung,0,0,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,8,2,0.4444444444444444,0,0,0,2,1
+OYO 618 Top Homestay,2200000,badung,1,1,1,1,1,0,0,1,0,1,0,0,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost Melody 1 Tipe A Kuta Selatan Badung,2900000,badung,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,13,6,0.7222222222222222,1,4,1,2,1
+Kost Pondok Cinta Tipe A Kuta Selatan Badung,2100000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,1,1,1,0,1,10,5,0.5555555555555556,1,3,0,2,1
+Kost di Jimbaran (Taman Griya Residence),2000000,badung,1,1,1,1,0,0,0,0,1,1,1,0,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kuta Heritage Residence,3800000,badung,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,2,1
+Kost MD Living Jimbaran Tipe Standart Kuta Selatan Badung,2600000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,2,1
+Kost D Bali Kuta Selatan Badung (Eksklusif),2400000,badung,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Kost Dalung Mas 1 Kuta Utara Badung,2300000,badung,1,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,1,8,3,0.4444444444444444,1,1,0,2,1
+Kos lengkap di kunti seminyak bali,2350000,badung,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,5,4,0.2777777777777778,1,3,0,2,1
+APARTEMEN KAWAII,3700000,badung,1,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,0,1,9,5,0.5,1,3,0,2,1
+Kost fasilitas lengkap di Jimbaran bali (lokasi strategis),3000000,badung,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,2,1
+Kost Lengkap Sunset Road Seminyak (Bangunan Baru),1800000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Disewakan Kost di Bali dengan fasilitas lengkap dan nyaman,3800000,badung,1,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,13,8,0.7222222222222222,1,6,1,2,1
+Kost Majapahit Kuta Badung (Eksklusif),3500000,badung,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Tuban Kuta Area (Tipe B),2750000,badung,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,8,6,0.4444444444444444,1,4,1,2,1
+Lempinis kost (Tipe B),700000,badung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,1
+Kost Batas Kangin Bali,1800000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,2,1
+KoolKost @ Dharmawangsa Nusa Dua,1700000,badung,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,6,4,0.3333333333333333,1,2,0,2,1
+KOST BALI GILI RESIDENCE PELITA (Bangunan Baru),2300000,badung,1,1,1,1,0,0,0,1,1,1,0,0,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost Eksklusif near Pantai Balangan Bali,3500000,badung,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,6,4,0.3333333333333333,1,2,0,2,1
+Kost kos elite kuta tuban airport bali (Bangunan Baru),2050000,badung,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Kost Kusuma Tipe A2 Kuta Selatan Badung (Promo),2050000,badung,1,0,1,0,0,0,1,1,1,0,0,1,1,0,1,1,0,1,10,5,0.5555555555555556,1,3,0,2,1
+Kost Matara Kuta Residence Kuta Badung,3000000,badung,1,1,1,1,0,0,0,1,1,1,0,1,1,1,1,0,0,1,12,6,0.6666666666666666,1,4,1,2,1
+Kost Annapurna Bumbak Umalas Tipe A Kuta Utara Badung,3800000,badung,1,1,1,0,0,0,1,1,1,0,0,1,1,1,1,1,0,1,12,6,0.6666666666666666,1,4,1,2,1
+Kost Geweka Guest House Executive Kuta Selatan Badung,4000000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Rnc Stay Tipe A Kuta Selatan Badung,2500000,badung,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Kost Candra II Kuta Selatan Badung (Suite),2300000,badung,1,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,12,5,0.6666666666666666,1,3,0,2,1
+Kost Bayint VVIP Kuta Selatan Badung,4500000,badung,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,15,7,0.8333333333333334,1,5,1,2,1
+"Kost Elit, Nyaman di Nusadua & Jimbaran Area (Tipe B)",3550000,badung,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+OYO 914 Batukaru Garden 5 Sevilla Residence,2300000,badung,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,2,1
+Kost Thalia Athena Seminyak (Suite),1800000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,1,9,8,0.5,1,6,1,2,1
+Terima Kost,1100000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+kost di legian bali (belakang nightclub skygarden) mudah di,2500000,badung,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,1,9,4,0.5,1,2,0,2,1
+Kost di Nusa Dua dekat STTp (Eksklusif),1000000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,3,0.2222222222222222,0,1,0,2,1
+Kos di Nusa Dua,2000000,badung,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,6,6,0.3333333333333333,1,4,1,2,1
+Kost Exclusive Giri Puspa Lestari Jimbaran Kuta Selatan Badung,2300000,badung,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Harian/bulan di Glogor Carik dekat Kuta (Bangunan Baru),2750000,badung,1,0,1,0,0,1,0,1,0,0,0,0,1,0,1,1,0,1,8,6,0.4444444444444444,1,4,1,2,1
+Kost Candra II Kuta Selatan Badung (Bangunan Baru),2000000,badung,1,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,12,5,0.6666666666666666,1,3,0,2,1
+kos single di jimbaran,1300000,badung,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,5,4,0.2777777777777778,1,2,0,2,1
+kost di Jimbaran pondok giri,2500000,badung,1,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,8,6,0.4444444444444444,1,4,1,2,1
+Kost Casa De Julia Deluve Kuta Utara Badung,2700000,badung,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Kost Komplit Atena Seminyak Bali,2800000,badung,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,0.16666666666666666,1,2,0,2,1
+Kost Gwendelyn Tipe C Kuta Selatan Badung,3000000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kost kosongan,1500000,badung,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,2,1
+Kost Murah Jl Uluwatu Kuta Bali,1900000,badung,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,2,1
+G7 Residence (Bangunan Baru),1700000,badung,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,2,1
+kost murah,3500000,badung,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,6,4,0.3333333333333333,1,3,0,2,1
+Kost Puri Mumbul Permai Tipe C Kuta Selatan Badung,3020000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Sewa Kamar Kost Pondok Ari (Tipe B),1500000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+Kost Pudi Homestay Kuta Utara Badung,3000000,badung,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,14,6,0.7777777777777778,0,4,1,2,1
+Kost MS Guesthouse UNUD 1 VIP Kuta Selatan Badung (Eksklusif),2850000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+Kost exclusive soul @ bali,1500000,badung,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,8,6,0.4444444444444444,1,5,1,2,1
+Kost Murah Fasilitas Lengkap di Kuta Bali,3500000,badung,1,0,1,1,0,1,0,0,0,0,0,1,1,0,1,0,1,1,9,7,0.5,1,5,1,2,1
+Jimbaran Lestari Residence (Promo),2300000,badung,1,0,1,1,0,1,0,0,0,0,0,1,1,0,1,0,1,1,9,7,0.5,1,5,1,2,1
+Kost fasilitas lengkap (Bangunan Baru),1050000,badung,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,6,4,0.3333333333333333,1,2,0,2,1
+Kost Griya Sunset 1 Tipe Bawah Kuta Badung,4000000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Di Sidakarya Panjer,900000,badung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,1
+KOST DI CANGGU DEKAT PANTAI (Serenity 2),5000000,badung,1,1,1,1,0,0,0,1,0,0,0,0,1,0,1,1,0,1,9,6,0.5,1,4,1,2,1
+Kost Marvell Uluwatu Kuta Selatan Badung,2600000,badung,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,15,7,0.8333333333333334,1,5,1,2,1
+Kost Mari Living Kuta Selatan Bali,3000000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kost Tepi Sawah Golden House Vip Kuta Utara Badung (Eksklusif),3150000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Kost Pondok Adnyana 1 Tipe Queenbed Kuta Selatan Badung,2500000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+OYO 1372 Yandra Guest House (Eksklusif),1750000,badung,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,2,1
+Kost Nami Tipe A Kuta Selatan Badung,2000000,badung,0,0,1,1,0,0,0,1,0,0,0,1,0,0,1,0,0,1,6,3,0.3333333333333333,0,1,0,2,1
+Kost Majapahit Kuta Badung (Tipe B),3850000,badung,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+KOST BARU FASILITAS LENGKAP DEKAT MCD JIMBARAN,2500000,badung,1,1,1,1,0,1,0,1,0,1,0,1,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,2,1
+"Kost Pratama Benoa Nusa Dua - Standard, Superior, dan Deluxe",2000000,badung,1,1,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,8,5,0.4444444444444444,1,3,0,2,1
+terima kos,1300000,badung,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,0.2222222222222222,1,1,0,2,1
+Kost W Padma 8 Standart Room Kuta Selatan Badung,2850000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+OYO 672 Bali Radiance Canggu,2500000,badung,1,1,1,1,1,0,0,1,0,1,0,0,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost Arisma Non Mezanin Kuta Badung,2750000,badung,1,1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,8,5,0.4444444444444444,1,3,0,2,1
+kos glogor carig (Eksklusif),2200000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+Kost The Aulia Stay Kuta Selatan Badung (Tipe B),2450000,badung,1,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost Isabella View Kuta Selatan Badung,1700000,badung,1,0,1,1,0,0,1,1,1,1,0,1,0,1,1,0,0,1,11,4,0.6111111111111112,1,2,0,2,1
+Kos Efata seminyak sebelah warung Made seminyak Kuta,2000000,badung,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,6,3,0.3333333333333333,1,1,0,2,1
+The Kost Free Wifi Full Furnished,1900000,badung,1,0,1,1,0,0,0,1,0,0,0,0,1,0,1,1,0,1,8,5,0.4444444444444444,1,3,0,2,1
+Kost MD Living III Jimbaran Deluxe Room Kuta Selatan Badung (Tipe B),3350000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+The Vie Residence,1150000,badung,1,1,1,1,0,1,1,1,1,0,0,0,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,2,1
+OYO 1004 The Radiance Guesthouse,3000000,badung,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,2,1
+Kost DeKesambi [ VIP KOS ],3500000,badung,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,1,8,6,0.4444444444444444,1,4,1,2,1
+"Kos murah & Elit di kampial dekat puja mandala, STP nusa",1150000,badung,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,0.2777777777777778,1,2,0,2,1
+Kost Teras Harta Kuta Utara Badung (Suite),2900000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Kost Candra Tipe A Kuta Selatan Badung,2000000,badung,1,0,1,1,0,0,0,1,0,1,0,1,0,1,1,0,0,1,9,4,0.5,1,2,0,2,1
+Kost G7 Residence,2200000,badung,1,0,1,1,0,0,0,0,1,1,0,0,1,0,1,0,0,0,7,4,0.3888888888888889,1,3,0,2,1
+Pondok Nauma II (Bangunan Baru),900000,badung,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.1111111111111111,1,1,0,2,1
+Kost Canina Living Kuta Utara Badung (Promo),4800000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Apartemen Kawaii di JIMBARAN - BALI,3500000,badung,1,0,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,1,10,5,0.5555555555555556,1,3,0,2,1
+Kost Christine Tipe A Kuta Selatan Badung,2300000,badung,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,7,5,0.3888888888888889,1,3,0,2,1
+Kost di Jimbaran (Kencana Residence),4000000,badung,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,1,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Saren Guesthouse Canggu Bali - Kost Exclusive Area Canggu Ba,5500000,badung,1,1,1,1,0,0,0,0,0,1,0,1,1,0,1,0,0,0,8,5,0.4444444444444444,1,4,1,2,1
+Kost Pondok Eddy Tipe A Kuta Utara Badung,4200000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kost- Kostan dengan fasilitas Hotel di Kuta,3000000,badung,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,15,8,0.8333333333333334,1,6,1,2,1
+DIsewakan Kos 2 kamar 1 rumah (Tipe B),5550000,badung,1,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,6,3,0.3333333333333333,1,2,0,2,1
+Kost Uluwatu Stay Deluxe Room Kuta Selatan Badung,3000000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Jt Tipe Premium Kuta Selatan Badung,3400000,badung,1,0,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,9,5,0.5,1,3,0,2,1
+Kost Wika House Tipe A Kuta Selatan Badung,3000000,badung,1,1,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,2,1
+Kost Melati VIP Kuta Utara Badung,2200000,badung,1,1,1,1,0,1,0,1,1,0,0,1,1,0,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Gusti Hostel,2500000,badung,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,2,1
+Kost Kubu Anyar Kuta Badung,1000000,badung,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,5,0,0.2777777777777778,0,0,0,2,1
+Kost Jimbaran 48 Daily Weekly Kuta Selatan Badung,3000000,badung,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Kost 36 Home Tipe E Kuta Selatan Badung,2200000,badung,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,0,1,13,6,0.7222222222222222,1,4,1,2,1
+Kost Melasti Cozy Tipe A Kuta Badung,4000000,badung,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,2,1
+"Kost Elit, Nyaman di Nusadua & Jimbaran Area (Promo)",2850000,badung,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost The W Sandat Standart Kuta Selatan Badung (Bangunan Baru),2350000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+Kost Bunisari 7 Kuta Badung,2502500,badung,1,0,1,1,0,1,0,1,0,0,0,1,1,1,1,1,0,1,11,6,0.6111111111111112,1,4,1,2,1
+OYO 636 Apartmen Kak Okoh,2200000,badung,1,1,1,1,1,0,0,1,0,1,0,0,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost Murah Fasilitas Lengkap di Dewi Sri Kuta Bali (Eksklusif),4350000,badung,1,0,1,1,0,1,0,0,0,1,0,1,1,0,1,0,1,1,10,7,0.5555555555555556,1,5,1,2,1
+Kost Uluwatu Stay 2BR Family Room Kuta Selatan Badung (Bangunan Baru),3600000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Pondok Saraswati Kuta Selatan Badung,2750000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Kost Bulanan The Legian 777,2700000,badung,1,1,1,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,9,6,0.5,1,4,1,2,1
+Rukita Sunset Road Coliving - Kost Coliving Ekslusif di Kuta,4500000,badung,1,1,1,1,0,0,0,0,0,1,0,1,1,0,1,1,0,1,10,6,0.5555555555555556,1,4,1,2,1
+RUMAH 2 KAMAR Jimbaran,5000000,badung,1,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,7,4,0.3888888888888889,1,3,0,2,1
+Kost Arsawastu Residence Standard Kuta Utara Badung,5500000,badung,1,0,1,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,7,4,0.3888888888888889,1,3,0,2,1
+Kost Kuta Griya Permai,2000000,badung,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,2,1
+Kost Ratu Seminyak (Tipe B),1950000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,8,7,0.4444444444444444,1,5,1,2,1
+Kost Ratu Seminyak (Suite),1650000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,8,7,0.4444444444444444,1,5,1,2,1
+KOST Dewi Nusa Dua,1200000,badung,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,5,2,0.2777777777777778,0,1,0,2,1
+Kost Baru Kemuning Homey,2500000,badung,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,0,1,13,6,0.7222222222222222,1,4,1,2,1
+Kost MD Living III Jimbaran Superior Kuta Selatan Badung,3300000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,2,1
+Sunrise Homestay,3000000,badung,1,1,1,1,0,0,0,1,1,0,1,0,1,0,1,0,1,1,11,7,0.6111111111111112,1,5,1,2,1
+Ruma kos,2000000,badung,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,2,1
+Kost Feldo Residence Tipe A Kuta Badung,2700000,badung,1,1,1,0,1,1,0,1,0,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Umah Santi Residence Ungasan,3500000,badung,1,0,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,8,5,0.4444444444444444,1,3,0,2,1
+Hopy House at Bhineka Jati Jaya 1 (Promo),2750000,badung,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,8,6,0.4444444444444444,1,4,1,2,1
+kost elite bypass jimbaran- Nusa Dua,2000000,badung,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,2,1
+Kos Murah Kuta Bali,850000,badung,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,5,3,0.2777777777777778,1,1,0,2,1
+KOS Elite Exclusive di Kerobokan antara Seminyak dan Canggu,3000000,badung,1,1,1,1,0,0,0,1,1,1,0,0,1,0,1,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Seminyak bali disewakan kamar / room for rent,2400000,badung,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,8,6,0.4444444444444444,1,5,1,2,1
+Kost Uluwatu Stay Tipe Suite South Kuta Badung,3500000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+"Kost Eksklusif Kuta Utara, Dalung dekat Canggu",1450000,badung,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Rumah Kos di Nusa Dua,2000000,badung,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,6,4,0.3333333333333333,1,2,0,2,1
+Kos murah dituban kuta dekat bandara,1600000,badung,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,8,5,0.4444444444444444,1,3,0,2,1
+KOST ELITE TAMAN TIRTA AYU (Tipe B),3200000,badung,1,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,9,5,0.5,1,3,0,2,1
+Kost komplit atena seminyak bali,2200000,badung,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,7,6,0.3888888888888889,1,5,1,2,1
+Menerima Kost,1500000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kost Grand Kesambi Private Residence Kuta Utara Badung,6000000,badung,1,0,1,1,0,0,0,0,0,1,0,1,1,0,1,1,0,1,9,5,0.5,1,3,0,2,1
+Kost bersih,1700000,badung,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,0.2222222222222222,1,2,0,2,1
+PONDOK MESARI (Tipe B),3500000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+Kost Surf Doggie Inn Tipe Ac Kuta Badung,5000000,badung,1,0,1,0,0,1,0,1,1,0,0,1,1,1,1,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost The Murai Kuta Kuta Selatan Badung,3000001,badung,1,0,1,1,0,1,0,1,1,0,0,1,1,1,0,1,0,1,11,5,0.6111111111111112,1,3,0,2,1
+Kos2an baru!,2000000,badung,1,1,1,1,0,0,1,1,1,1,0,0,1,0,1,1,0,1,12,6,0.6666666666666666,1,4,1,2,1
+"kos harian,mingguan,bulanan di kuta bali",2000000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,0.16666666666666666,0,1,0,2,1
+OYO 393 Ara Inn Bed And Breakfast,5000000,badung,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,2,1
+"Sewa harian,mingguan dan bulanan",6000000,badung,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,2,1
+Kost Villa Almic Ungadas Single Kuta Selatan Badung,3000000,badung,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,8,5,0.4444444444444444,1,3,0,2,1
+BAHTERA GUEST HOUSE,3500000,badung,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,6,6,0.3333333333333333,1,4,1,2,1
+Kost lengkap Murah Dekat Canggu Dalung,1550000,badung,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Kos Ratu Seminyak (Suite),1500000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,8,7,0.4444444444444444,1,5,1,2,1
+Kost Kubu Sunset Kuta Badung,1950000,badung,1,0,1,1,0,0,0,1,0,1,0,1,0,0,1,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+KOST Dewi Nusa Dua (Tipe B),1150000,badung,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,5,2,0.2777777777777778,0,1,0,2,1
+Davanka Home Stay (Bangunan Baru),3000000,badung,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,0,1,1,10,7,0.5555555555555556,1,5,1,2,1
+kost dewisri Kuta,3000000,badung,1,1,1,1,0,1,0,1,0,1,1,0,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,2,1
+Kost Loji Kuta Badung Bali,2500000,badung,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,6,4,0.3333333333333333,1,3,0,2,1
+Kos Kosan Elit,2200000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kos dekat Unud di taman griya jimbaran,600000,badung,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,6,3,0.3333333333333333,1,1,0,2,1
+Kost Exclusive Kresna Impian Residence Canggu-Seminyak (Tipe B),1650000,badung,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,15,7,0.8333333333333334,1,5,1,2,1
+Kost elite dekat Kerobokan Seminyak,3000000,badung,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,4,0.2222222222222222,1,2,0,2,1
+Kost Kosongan daerah Ungasan - Kuta selatan,800000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+"Room for rent monthly, yearly in Kediri Tuban Bali",1600000,badung,1,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Pardita Exclusive Kost Jimbaran (Eksklusif),2200000,badung,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,2,1
+Kost Melanting Corner Tipe A Kuta Utara Badung,4500000,badung,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,6,4,0.3333333333333333,1,2,0,2,1
+KUBU RANGGA HOUSE PRIME LOCATION SUNSET ROAD (Bangunan Baru),4150000,badung,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Kost Green Padang Luwih Executive Kuta Utara Badung (Tipe B),2050000,badung,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,8,3,0.4444444444444444,1,1,0,2,1
+OYO 1755 De'balcon Accomodation,2500000,badung,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,2,1
+Kost The Moon Exclusive Executive Kuta Badung,5000000,badung,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost The W Sandat Vip Sofa 1 Kuta Selatan Badung,3300000,badung,1,0,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,9,5,0.5,1,3,0,2,1
+Pondok kastara (Tipe B),1650000,badung,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,7,6,0.3888888888888889,1,4,1,2,1
+"Kos Fasilitas Lengkap Dekat Hotel Berbintang Kawasan ITDC, N (Tipe B)",1300000,badung,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost Mutiara Kuta Selatan Badung,2800000,badung,1,0,1,1,0,1,0,1,1,0,0,1,0,1,1,0,0,1,10,5,0.5555555555555556,1,3,0,2,1
+"Kos Fasilitas Lengkap Dekat Hotel Berbintang Kawasan ITDC, N (Suite)",1300000,badung,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kos Bali: Kuta Three,2500000,badung,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,6,4,0.3333333333333333,1,2,0,2,1
+"Kos Fasilitas Lengkap Tanjung Benoa, Nusa Dua, BALI Kawasan (Promo)",1300000,badung,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kos Ratu Seminyak (Tipe B),1550000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,8,7,0.4444444444444444,1,5,1,2,1
+Kost Gede Ciputra Tipe B Kuta Selatan Badung,2500000,badung,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,0,1,13,6,0.7222222222222222,1,4,1,2,1
+BENGAWAN SOLO Bali,2500000,badung,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,0.2222222222222222,1,2,0,2,1
+Kost Dream Jimbaran Kuta Selatan Badung (Suite),3950000,badung,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,1,0,1,14,6,0.7777777777777778,1,4,1,2,1
+Kost Raya Legian Bali,4500000,badung,1,1,1,1,0,1,0,0,1,1,0,0,1,0,1,0,1,1,11,8,0.6111111111111112,1,6,1,2,1
+Ciputra-House Jimbaran kost fasilitas lengkap & nyaman,2000000,badung,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,2,1
+Kost Jt Tipe Prime Kuta Selatan Badung,3500000,badung,1,0,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,9,5,0.5,1,3,0,2,1
+Kost Pondok Adnyana 1 Tipe Single Bed Kuta Selatan Badung,2200000,badung,1,0,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+KOST NUSA DUA. TANJUNG BENOA,2000000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Canggu Residence Monthly Rental and Guest House,5000000,badung,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,1,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Alamanda Residence,1700000,badung,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,2,1
+Kost Arisma Mezanine Kuta Badung,2995000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0,1,9,6,0.5,1,4,1,2,1
+Savira kost,1100000,badung,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,9,6,0.5,1,4,1,2,1
+Kost MD Living Jimbaran Balcony Room Kuta Selatan Badung,2600000,badung,1,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+Kost Mulia Harum Standar Kuta Selatan Badung,4000000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,2,1
+"Kos Fasilitas Lengkap Jl. Pratama, Tanjung Benoa ITDC Nusa D",1200000,badung,1,0,1,1,0,1,1,1,1,1,0,0,1,0,0,0,0,1,10,5,0.5555555555555556,1,3,0,2,1
+Sri Home,1500000,badung,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0.16666666666666666,1,1,0,2,1
+Kost Permai 15 Tipe A Kuta Badung,2300000,badung,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,7,3,0.3888888888888889,1,1,0,2,1
+Kost MD Living III Jimbaran Standart Kuta Selatan Badung (Promo),3050000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kost kamar besar jimbaran,2500000,badung,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,2,1
+Kost Teras Harta Kuta Utara Badung (Bangunan Baru),3600000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Kost Bali Duta Wisata Beach Inn Tipe A Kuta Badung,1800000,badung,0,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,7,2,0.3888888888888889,0,0,0,2,1
+Kost Jt Tipe Standard Kuta Selatan Badung,2700000,badung,1,0,1,0,0,1,0,1,0,0,0,1,1,1,0,0,0,1,8,5,0.4444444444444444,1,3,0,2,1
+Yellow Guest House Bali (Suite),1800000,badung,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,9,6,0.5,1,4,1,2,1
+Lily Asri Kost,3060000,badung,1,1,1,1,0,0,1,1,1,1,1,0,1,0,1,0,0,1,12,6,0.6666666666666666,1,4,1,2,1
+Kost Komplit Di Kunti Seminyak Bali (Suite),2800000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,8,7,0.4444444444444444,1,6,1,2,1
+kost MADE (Tipe B),700000,badung,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0.1111111111111111,0,0,0,2,1
+Kos kosan lengkap (Bangunan Baru),3400000,badung,1,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,8,8,0.4444444444444444,1,6,1,2,1
+Kost Teras Harta Kuta Utara Badung (Bangunan Baru),3400000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Kost Uluwatu Stay 2BR Family Room Kuta Selatan Badung,4000000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Kusuma Tipe A2 Kuta Selatan Badung,1850000,badung,1,0,1,0,0,0,1,1,1,0,0,1,1,0,1,1,0,1,10,5,0.5555555555555556,1,3,0,2,1
+OYO 1372 Yandra Guest House,2000000,badung,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,2,1
+Kost Harian/bulan di Glogor Carik dekat Kuta,3000000,badung,1,0,1,0,0,1,0,1,0,0,0,0,1,0,1,1,0,1,8,6,0.4444444444444444,1,4,1,2,1
+Kost Geweka Guest House Tipe A Kuta Selatan Badung,3000000,badung,1,1,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,9,5,0.5,1,3,0,2,1
+Kost Pondok Cemara Kedonganan Kuta Badung (Tipe B),2550000,badung,1,1,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+SEWA KOST KELUARGA DI DALUNG,1200000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kost murah jimbaran (Promo),750000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,0.16666666666666666,0,1,0,2,1
+Jimbaran Lestari Residence,2500000,badung,1,0,1,1,0,1,0,0,0,0,0,1,1,0,1,0,1,1,9,7,0.5,1,5,1,2,1
+Yellow Guest House Bali,2000000,badung,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,9,6,0.5,1,4,1,2,1
+Hopy House at Bhineka Jati Jaya 1,2600000,badung,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,8,6,0.4444444444444444,1,4,1,2,1
+"Kos Fasilitas Lengkap Tanjung Benoa, Nusa Dua, BALI Kawasan",1200000,badung,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+PONDOK MESARI,3500000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+Kost Lengkap Sunset Road Seminyak,1700000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Kost Padonan Kuta Utara Badung,3000000,badung,1,1,1,1,0,1,0,1,0,1,0,1,0,1,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+kos glogor carig,2000000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+Kost Pondok Cemara Kedonganan Kuta Badung,2500000,badung,1,1,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+KUBU RANGGA HOUSE PRIME LOCATION SUNSET ROAD,4000000,badung,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,14,7,0.7777777777777778,1,5,1,2,1
+KOST ELITE TAMAN TIRTA AYU (Tipe B),3150000,badung,1,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,9,5,0.5,1,3,0,2,1
+DIsewakan Kos 2 kamar 1 rumah,5000000,badung,1,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,6,3,0.3333333333333333,1,2,0,2,1
+Kost The Aulia Stay Kuta Selatan Badung,2500000,badung,1,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost MD Living III Jimbaran Deluxe Room Kuta Selatan Badung,3300000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kost kos elite kuta tuban airport bali (Tipe B),2550000,badung,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Kost murah nyaman,2500000,badung,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,2,1
+Sewa kost bulanan eksklusif kuta beach (Tipe B),3250000,badung,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,6,5,0.3333333333333333,1,4,1,2,1
+Kost Green Karang Sari Kuta Badung,2190000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Sewa Kamar Kost Pondok Ari,1500000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+KOST DI CANGGU DEKAT PANTAI (Suite),4550000,badung,1,1,1,1,0,1,0,1,0,0,0,0,1,0,1,1,0,1,10,7,0.5555555555555556,1,5,1,2,1
+Kos Pria Wanita Campur Jimbaran Kuta Selatan Bali` (Bangunan Baru),2500000,badung,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,1,13,8,0.7222222222222222,1,6,1,2,1
+Kost Green Karang Sari Kuta Badung (Bangunan Baru),2250000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Sewa kost bulanan eksklusif kuta beach,3500000,badung,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,6,5,0.3333333333333333,1,4,1,2,1
+Kost EXCLUSIVE jimbaran dekat kampus unud (Eksklusif),2200000,badung,1,1,1,1,0,0,0,0,0,1,0,1,1,0,1,1,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Disewakan Rumah kost harian /bulanan Kalimas Residence,2750000,badung,1,1,1,1,0,1,0,1,0,1,0,1,1,0,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Umah Bukit House,4000000,badung,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,2,1
+Kost Koku Tipe Executive Kuta Badung (Eksklusif),4300000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Lempinis kost,650000,badung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,2,1
+Beranda Kost,850000,badung,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0.1111111111111111,0,0,0,2,1
+Umah Bukit House (Suite),4100000,badung,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,2,1
+Kost Rumah Kita Kuta Executive Kuta Badung (Promo),2150000,badung,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,7,3,0.3888888888888889,1,1,0,2,1
+"Kost Elit, Nyaman di Nusadua & Jimbaran Area",3300000,badung,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Terima Kost Di JIMBARAN. harian/mingguan/bulanan (FULL FURNI,1300000,badung,1,1,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0,1,9,7,0.5,1,5,1,2,1
+OYO 1741 Komala Indah Cottages (Bangunan Baru),4150000,badung,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,2,1
+KOST ELITE TAMAN TIRTA AYU,3500000,badung,1,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,9,5,0.5,1,3,0,2,1
+Kost Geweka Guest House Tipe A Kuta Selatan Badung (Bangunan Baru),3000000,badung,1,1,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,9,5,0.5,1,3,0,2,1
+Umah Bukit House (Eksklusif),3800000,badung,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,2,1
+Kost EXCLUSIVE jimbaran dekat kampus unud,2500000,badung,1,1,1,1,0,0,0,0,0,1,0,1,1,0,1,1,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Omah 9 Kuta Utara Badung (Suite),3400000,badung,1,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+KOST BALI GILI RESIDENCE PELITA,2000000,badung,1,1,1,1,0,0,0,1,1,1,0,0,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost di Nusa Dua dekat STTp,1000000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,3,0.2222222222222222,0,1,0,2,1
+Pondok kastara,1800000,badung,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,7,6,0.3888888888888889,1,4,1,2,1
+Kost A8 Jl Goa Gong Ungasan Kuta Selatan Badung,1900000,badung,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Kos nyaman murah bali,600000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+kost MADE,800000,badung,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0.1111111111111111,0,0,0,2,1
+Beranda Kost (Eksklusif),800000,badung,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0.1111111111111111,0,0,0,2,1
+Kost A8 Jl Goa Gong Ungasan Kuta Selatan Badung (Promo),1850000,badung,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,1,12,7,0.6666666666666666,1,5,1,2,1
+FEEL HOME WHEN YOU'RE AWAY FROM HOME (Suite),1100000,badung,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,4,0.2777777777777778,1,2,0,2,1
+Kost Green Padang Luwih Executive Kuta Utara Badung (Eksklusif),2050000,badung,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,8,3,0.4444444444444444,1,1,0,2,1
+Kost kos elite kuta tuban airport bali,2250000,badung,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,14,7,0.7777777777777778,1,5,1,2,1
+kos dekat bandara I Gusti Ngurah Rai (Eksklusif),950000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+FEEL HOME WHEN YOU'RE AWAY FROM HOME,1000000,badung,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,4,0.2777777777777778,1,2,0,2,1
+Pardita Exclusive Kost Jimbaran,2000000,badung,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,2,1
+Kost Koku Tipe Executive Kuta Badung,4500000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+G7 Residence,1500000,badung,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,2,1
+"Kos Fasilitas Lengkap Dekat Hotel Berbintang Kawasan ITDC, N",1200000,badung,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost Exclusive Kresna Impian Residence Canggu-Seminyak,1800000,badung,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,15,7,0.8333333333333334,1,5,1,2,1
+Kost fasilitas lengkap (Eksklusif),1350000,badung,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,6,4,0.3333333333333333,1,2,0,2,1
+Kos kosan lengkap,3500000,badung,1,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,8,8,0.4444444444444444,1,6,1,2,1
+Kost MS Guesthouse UNUD 1 VIP Kuta Selatan Badung,2900000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+Kost Green Padang Luwih Executive Kuta Utara Badung,2090000,badung,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,8,3,0.4444444444444444,1,1,0,2,1
+Kost Majapahit Kuta Badung,3500000,badung,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Tuban Kuta Area,2500000,badung,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,8,6,0.4444444444444444,1,4,1,2,1
+OYO 1741 Komala Indah Cottages,4000000,badung,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,2,1
+Kost Senja Kuta Badung,2495000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Kost Dream Jimbaran Kuta Selatan Badung,4500000,badung,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,1,0,1,14,6,0.7777777777777778,1,4,1,2,1
+Kos Pria Wanita Campur Jimbaran Kuta Selatan Bali`,2800000,badung,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1,1,13,8,0.7222222222222222,1,6,1,2,1
+Kost Omah 9 Kuta Utara Badung,3000000,badung,1,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+Kost Candra II Kuta Selatan Badung,2000000,badung,1,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,12,5,0.6666666666666666,1,3,0,2,1
+Kost Tepi Sawah Golden House Vip Kuta Utara Badung,3000000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Kost D Bali Kuta Selatan Badung,2500000,badung,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Kos Ratu Seminyak,1700000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,8,7,0.4444444444444444,1,5,1,2,1
+"Jepun House - Kos nyaman di Kuta, dekat Pantai Batubelig (Bangunan Baru)",3650000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,8,7,0.4444444444444444,1,5,1,2,1
+Kost Ratu Seminyak,1850000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,8,7,0.4444444444444444,1,5,1,2,1
+SEWA KOST KELUARGA DI DALUNG (Suite),1250000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Pondok Nauma II,900000,badung,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.1111111111111111,1,1,0,2,1
+Kost MD Living II Jimbaran Standart Room Kuta Selatan Badung,2700000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+Kost The W Sandat Standart Kuta Selatan Badung,2700000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+Kost MD Living II Jimbaran Standart Room Kuta Selatan Badung (Eksklusif),3000000,badung,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,8,4,0.4444444444444444,1,2,0,2,1
+Kost Thalia Athena Seminyak,1600000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,1,9,8,0.5,1,6,1,2,1
+Kost murah jimbaran,700000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,0.16666666666666666,0,1,0,2,1
+Kost MD Living III Jimbaran Standart Kuta Selatan Badung,3000000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,1
+Sewa kost bulanan eksklusif kuta beach (Promo),3750000,badung,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,6,5,0.3333333333333333,1,4,1,2,1
+Kost Murah Fasilitas Lengkap di Dewi Sri Kuta Bali,4000000,badung,1,0,1,1,0,1,0,0,0,1,0,1,1,0,1,0,1,1,10,7,0.5555555555555556,1,5,1,2,1
+KOST DI CANGGU DEKAT PANTAI,5000000,badung,1,1,1,1,0,1,0,1,0,0,0,0,1,0,1,1,0,1,10,7,0.5555555555555556,1,5,1,2,1
+Davanka Home Stay,2800000,badung,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,0,1,1,10,7,0.5555555555555556,1,5,1,2,1
+Kost Rumah Kita Kuta Executive Kuta Badung,2500000,badung,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,7,3,0.3888888888888889,1,1,0,2,1
+kos dekat bandara I Gusti Ngurah Rai,850000,badung,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+Kos nyaman murah bali (Tipe B),600000,badung,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0.1111111111111111,0,0,0,2,1
+Kost Gwk Stay Uluwatu Kuta Selatan Badung,2500000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,2,1
+Kost Padonan Kuta Utara Badung (Suite),2950000,badung,1,1,1,1,0,1,0,1,0,1,0,1,0,1,1,0,0,1,11,6,0.6111111111111112,1,4,1,2,1
+"Jepun House - Kos nyaman di Kuta, dekat Pantai Batubelig",3500000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,8,7,0.4444444444444444,1,5,1,2,1
+Kost Teras Harta Kuta Utara Badung,3200000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,2,1
+Kost fasilitas lengkap,1200000,badung,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,6,4,0.3333333333333333,1,2,0,2,1
+Kost Komplit Di Kunti Seminyak Bali,2800000,badung,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,8,7,0.4444444444444444,1,6,1,2,1
+Kost Casa De Sultan Golden View Kuta Selatan Badung,6000000,badung,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,2,1
+Kost Canina Living Kuta Utara Badung,4500000,badung,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,2,1
+Seruni Guesthouse @Mahendradata,4000000,bali,1,1,1,1,0,1,1,1,1,1,1,0,1,0,1,1,0,1,14,7,0.7777777777777778,1,5,1,0,2
+Kost DD Denpasar,800000,bali,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,0,2
+Loven Sanur Guest House Di Sewakan (Bangunan Baru),4250000,bali,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,7,4,0.3888888888888889,1,2,0,0,2
+"Umahku Apartement, Denpasar",3500000,bali,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,0,2
+Kost murah,1000000,bali,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,5,3,0.2777777777777778,1,1,0,0,2
+Executive Kost Sarigading Suites Denpasar Bali,4000000,bali,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,16,7,0.8888888888888888,1,5,1,0,2
+Loven Sanur Guest House Di Sewakan,4800000,bali,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,7,4,0.3888888888888889,1,2,0,0,2
+Loven Sanur Guest House Di Sewakan (Tipe B),4250000,bali,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,7,4,0.3888888888888889,1,2,0,0,2
+Ardinata Kos 2 - Platinum,1100000,buleleng,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,4,0.2777777777777778,1,2,0,0,3
+Kost Ari Damai Tipe B Buleleng,650000,buleleng,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,3
+Kost Mewah Bisma Singaraja Buleleng Bali (Bangunan Baru),2300000,buleleng,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,0,1,13,6,0.7222222222222222,1,4,1,0,3
+Kos Putri Singaraja TegalSari,600000,buleleng,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,6,3,0.3333333333333333,0,1,0,0,3
+Ardinata Kos 1B - Platinum,1200000,buleleng,1,0,1,1,0,0,1,1,1,1,1,0,0,0,1,0,0,1,10,4,0.5555555555555556,1,2,0,0,3
+Kost The Peak Buleleng (Bangunan Baru),1900000,buleleng,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0,1,13,5,0.7222222222222222,1,3,0,0,3
+Kost Js Apato Buleleng,1200000,buleleng,1,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,1,11,5,0.6111111111111112,1,3,0,0,3
+Kost Bali Kharisma (Bangunan Baru),650000,buleleng,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,0,1,8,4,0.4444444444444444,0,2,0,0,3
+Kost Bali Kharisma (Eksklusif),700000,buleleng,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,0,1,8,4,0.4444444444444444,0,2,0,0,3
+Kos Putri Singaraja Br. Tegal,600000,buleleng,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,5,3,0.2777777777777778,0,1,0,0,3
+OYO 1051 De Loran Hotel,3000000,buleleng,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,0,3
+Kost Bali Kharisma (Suite),600000,buleleng,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,0,1,8,4,0.4444444444444444,0,2,0,0,3
+Kost Mewah Bisma Singaraja Buleleng Bali,2100000,buleleng,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,0,1,13,6,0.7222222222222222,1,4,1,0,3
+Kost The Peak Buleleng,2200000,buleleng,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0,1,13,5,0.7222222222222222,1,3,0,0,3
+Kos Banyuning Singaraja,600000,buleleng,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,5,2,0.2777777777777778,0,1,0,0,3
+Kos Banyuning Singaraja (Tipe B),600000,buleleng,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,5,2,0.2777777777777778,0,1,0,0,3
+Kost Bali Kharisma,650000,buleleng,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,0,1,8,4,0.4444444444444444,0,2,0,0,3
+Kost Menuh Buleleng,700000,buleleng,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,3
+Kost Menuh Buleleng (Promo),750000,buleleng,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,3
+Kost Harvest Denpasar Barat Denpasar (Suite),2650000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Penginapan Bintang Bali - Harga Murah Fasilitas Mewah di Pur,1000000,denpasar,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,7,5,0.3888888888888889,1,3,0,1,4
+Kost exclusive aka hotel,2000000,denpasar,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,6,3,0.3333333333333333,0,1,0,1,4
+Kost Umah Dewata Tipe A Denpasar Selatan Denpasar (Promo),2100000,denpasar,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Kost Di Atena Seminyak Bali (Suite),2800000,denpasar,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,7,6,0.3888888888888889,1,5,1,1,4
+Kost Pasutri di Denpasar,1750000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Aline Residence Executive Denpasar Selatan Denpasar,3500000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Kos Elit Nyaman dengan fasilitas Hotel di Pusat Kota Denpasa,1500000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,6,4,0.3333333333333333,1,2,0,1,4
+Kost Green Bakung Sari Tipe AC Denpasar Timur Denpasar,1850000,denpasar,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,5,3,0.2777777777777778,1,1,0,1,4
+Ready kost kosong isian no ac,900000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,6,4,0.3333333333333333,1,2,0,1,4
+Kost Amertha Sanjivani Biasa Luas Denpasar Barat Denpasar,2500000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,0,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Kosanmu Bali (Eksklusif),1250000,denpasar,1,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,1,1,12,7,0.6666666666666666,1,5,1,1,4
+Kost Ekslusive Daerah Kuta Legian,2600000,denpasar,1,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,7,5,0.3888888888888889,1,3,0,1,4
+Kosan Elit daerah Sesetan Sidakarya,2000000,denpasar,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,5,5,0.2777777777777778,1,3,0,1,4
+Kost Eksklusif Sidakarya Denpasar Bali,2500000,denpasar,1,0,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,1,8,5,0.4444444444444444,1,3,0,1,4
+Kost Semeton Vip Room Denpasar Selatan Denpasar,2730000,denpasar,1,1,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,9,5,0.5,1,3,0,1,4
+KOS KOMPLIT  DENPASAR (Suite),2350000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,1,4
+Kost Gria Padma Tipe A Denpasar Timur Denpasar,4000000,denpasar,1,0,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0,1,8,5,0.4444444444444444,1,3,0,1,4
+Pondok Kemuning Flores Denpasar (Hunian Strategis),2000000,denpasar,1,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,1,4
+Stay At Renon (Eksklusif),1050000,denpasar,1,1,1,1,0,1,0,1,0,1,1,0,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Kost Elite,1750000,denpasar,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Cempaka living Kost elite murah di tengah kota,2250000,denpasar,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,0,0,1,12,7,0.6666666666666666,1,5,1,1,4
+kost bulanan nyaman dan elit,1500000,denpasar,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,13,7,0.7222222222222222,1,5,1,1,4
+Kost Mezzanine Jl. Pura Demak - Marlboro Denpasar Barat (Promo),1300000,denpasar,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,4,1,0.2222222222222222,0,0,0,1,4
+Kost Kana Residence Tipe A Denpasar Barat Denpasar (Bangunan Baru),3100000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,0,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Kos kosongan murah di kota denpasar,800000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost Nuansa Indah Tipe Deluxe Denpasar Utara Denpasar,2500000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Kost Cherry Tipe Executive Denpasar Barat,3900000,denpasar,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,15,7,0.8333333333333334,1,5,1,1,4
+Kost Knj Suite Denpasar Barat Denpasar,4000000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Murah dan nyaman di denpasar (Suite),800000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4
+Rumah Kost Jl Imam Bonjol Denpasar,650000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.1111111111111111,1,1,0,1,4
+Kost Languan By Intisari Tipe C Denpasar Selatan Denpasar,2300000,denpasar,1,0,1,0,1,1,0,0,1,0,0,1,1,0,0,0,0,1,8,5,0.4444444444444444,1,3,0,1,4
+Kost Griya Bstc Executive Denpasar Selatan Denpasar,5000000,denpasar,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+"KOST VIP BARU JL. TUKAD BADUNG XX B / B1 No.5 RENON, DENPASA",1600000,denpasar,1,1,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,1,4
+KOST BALI MERTASARI BEACH DENPASAR (Suite),4650000,denpasar,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,1,4
+Kos Bedahulu Nyaman Strategis di Pusat Kota Denpasar,1500000,denpasar,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,5,2,0.2777777777777778,0,0,0,1,4
+KOST ELITE AREA GATSU BARAT DENPASAR,1500000,denpasar,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Kos Elit (Full Furnish) seperti hotel + swimming pool,2700000,denpasar,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,1,1,14,8,0.7777777777777778,1,6,1,1,4
+SEWA KOST,1500000,denpasar,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Oceani Exclusive Denpasar Timur Denpasar (Eksklusif),2600000,denpasar,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Puri Indra Kost Denpasar (Promo),4000000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,1,9,7,0.5,1,5,1,1,4
+Kost Denpasar,1500000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,3,0.2222222222222222,0,1,0,1,4
+Teratai Melati Kos Elite  Jl Teratai 24 Denpasar,2300000,denpasar,1,1,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,7,4,0.3888888888888889,1,3,0,1,4
+"TERIMA KOST DIJAMIN MURAH, BAGUS, NYAMAN :)",600000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Terima Kost Bulanan dengan Fasilitas Lengkap,1955000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Gilisari Denpasar Selatan Denpasar (Tipe B),2750000,denpasar,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,1,9,3,0.5,1,1,0,1,4
+Kost Melangit Tipe Deluxe Denpasar Selatan Denpasar,3000000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+SASMARA APARTMENT,3000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,8,5,0.4444444444444444,1,4,1,1,4
+"Kost Strategis di Renon Denpasar dekat Panjer,Sanglah,Sanur (Promo)",800000,denpasar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+KOS Yuni House,3500000,denpasar,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,7,5,0.3888888888888889,1,3,0,1,4
+Kost Languan By Intisari Tipe A Denpasar Selatan Denpasar,1750000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Malano Residence Executive 1 Denpasar Selatan Denpasar (Promo),3000000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Kos tenang dukuhsari sesetan (Eksklusif),750000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0.16666666666666666,1,1,0,1,4
+Kost Saguna Residence Tipe A Denpasar Timur Denpasar,2300000,denpasar,1,0,1,1,0,1,0,1,1,0,0,1,0,0,1,0,0,1,9,5,0.5,1,3,0,1,4
+Kost Strategis Denpasar,1800000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Koku Renon 1 Tipe B Denpasar Selatan Denpasar,2700000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Umah Dewata Tipe A Denpasar Selatan Denpasar (Promo),1950000,denpasar,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,12,6,0.6666666666666666,1,4,1,1,4
+"Harvest Apt , Kost Deluxe , harian maupun bulanan Murah .",2000000,denpasar,1,0,1,1,0,1,0,1,1,1,0,0,1,0,1,1,1,1,12,7,0.6666666666666666,1,5,1,1,4
+Sewa Kost Mingguan dan Bulanan Murah (Eksklusif),1450000,denpasar,1,0,1,1,0,0,1,0,1,1,1,0,1,0,1,1,0,1,11,5,0.6111111111111112,1,3,0,1,4
+Vrindavan Residence,2500000,denpasar,1,1,1,1,0,1,0,0,0,1,1,1,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Kos Putri Renon BA,2000000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,4,0.2777777777777778,1,2,0,1,4
+"kost harian,mingguan,bulanan",1800000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,0.2222222222222222,1,2,0,1,4
+Kost untuk disewa (Bangunan Baru),1300000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Triga Kost,3000000,denpasar,1,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0,0,1,9,7,0.5,1,5,1,1,4
+Kost Prime Renon Tipe Vip Denpasar Selatan Denpasar,2700000,denpasar,1,0,1,0,0,1,0,1,0,0,0,1,1,1,0,0,0,1,8,5,0.4444444444444444,1,3,0,1,4
+Kost BW Tipe A Denpasar Selatan Denpasar,2300000,denpasar,1,0,1,1,0,1,0,1,1,1,0,1,1,1,0,1,0,1,12,5,0.6666666666666666,1,3,0,1,4
+Graha Chempaka,4000000,denpasar,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,1,4
+Kost Anasera Living Denpasar Selatan Denpasar (Bangunan Baru),2600000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,0,1,1,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Kost elit Bali - bali true living,5400000,denpasar,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Kost Kana Residence Tipe A Denpasar Barat Denpasar (Eksklusif),3550000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,0,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Kost Exclusive Ganggas Homestay (Tipe B),2700000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kos murah komplit,1100000,denpasar,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,5,3,0.2777777777777778,0,1,0,1,4
+Panda Dorm Denpasar,2000000,denpasar,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,0,0,1,12,5,0.6666666666666666,1,3,0,1,4
+Kost Tukad Melangit Panjer Tipe A Denpasar Selatan Denpasar (Bangunan Baru),2700000,denpasar,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,5,3,0.2777777777777778,1,1,0,1,4
+Kos UMA INN pusat kota denpasar mahendradatta,1200000,denpasar,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+Dewata Kost (Promo),700000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4
+Kost nyaman dan ditengah kota denpasar,1000000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0.16666666666666666,1,1,0,1,4
+PONDOK VARGAS,1500000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+KOST DENPASAR PEMOGAN,800000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,0.2222222222222222,1,2,0,1,4
+Yande Kost Denpasar Fasilitas Lengkap,1300000,denpasar,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Terima Kos,700000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+OYO Life 2204 Griya Hita,2000000,denpasar,1,1,1,1,1,0,0,1,0,1,0,0,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,1,4
+Kosan Murah di Denpasar Bali,750000,denpasar,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,1,0.1111111111111111,0,0,0,1,4
+Kost Elit Baru di Denpasar,2500000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost lengkap,1500000,denpasar,1,0,1,0,1,1,0,1,0,0,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Puri Dukuh (dekat mall living world),1300000,denpasar,1,0,1,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,9,4,0.5,1,3,0,1,4
+Kost Murah Denpasar,1500000,denpasar,1,0,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,11,5,0.6111111111111112,1,3,0,1,4
+Kost Bangunan Baru + WIFI daerah Denpasar,750000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0.1111111111111111,0,1,0,1,4
+Kost Grya Bajang Bali Renon,2500000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kost Griya Acarya,2700000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,1,9,7,0.5,1,5,1,1,4
+Swari C Kos (Eksklusif),1700000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Vassamaron Full Furnished Denpasar Selatan Denpasar,1700000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Ibu Putu Artini,850000,denpasar,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Saka Pedungan Denpasar Selatan (Eksklusif),1300000,denpasar,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Green Anggrek Mas Vip Denpasar Utara Denpasar (Promo),1700000,denpasar,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,13,6,0.7222222222222222,1,4,1,1,4
+Sewa Paviliun Murah Fasilitas Lengkap (Eksklusif),2700000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost style Villa di daerah kerobokan dekat seminyak (Suite),2900000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Vkost B Denpasar Selatan,2950000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Kost Lengkap di Pusat Kota Denpasar,800000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+"info kos kost kosan sekitar denpasar,ubung,gatsu,pidada,mahe",1200000,denpasar,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,8,3,0.4444444444444444,1,1,0,1,4
+Kost Koko Bagus Coliving Executive Denpasar Selatan Denpasar,4000000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,1,4
+kos bali studio8,2200000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost Living Bali Family Room Denpasar Selatan Denpasar,4000000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Disewakan kos kosan di Denpasar (Padangsambian),800000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Koku Renon,2200000,denpasar,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,7,5,0.3888888888888889,1,3,0,1,4
+kost dipusat kota Denpasar (Suite),1300000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0.16666666666666666,1,1,0,1,4
+"Kost di daerah Renon,Denpasar, Nyaman, Strategis, Harga Terj",1800000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,7,5,0.3888888888888889,1,3,0,1,4
+kos elite apartemen sanur (Eksklusif),2500000,denpasar,1,1,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0,1,9,7,0.5,1,5,1,1,4
+Kost Golden Gate Sweet Gold Denpasar Selatan Denpasar,5000000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,0,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Kost Samana Residence Denpasar,3500000,denpasar,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,1,0,1,10,6,0.5555555555555556,1,4,1,1,4
+"Kost dengan Fasilitas Lengkap di Gelogor Carik, Denpasar - B (Promo)",1150000,denpasar,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,11,7,0.6111111111111112,1,5,1,1,4
+KOST OTENTIK JOGLO,2500000,denpasar,1,0,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,8,5,0.4444444444444444,1,3,0,1,4
+Kos panjer deket kampus udayana (Eksklusif),850000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost  strategis Jalan Tukad Batanghari III BOK C No. 7,900000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4
+Kost Elite Unique House Tipe A Denpasar Timur Denpasar,2500000,denpasar,1,0,1,0,0,1,0,1,1,0,0,1,1,1,1,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Kost Griya Damai Denpasar Selatan Denpasar,2800000,denpasar,1,1,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Kost Exclusive Cozzy Residence Wedasari Bali,4000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost JC Boutique Superior Denpasar Selatan Denpasar (Eksklusif),3200000,denpasar,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Kost N3 Coliving Comfy Denpasar Utara Denpasar,2200000,denpasar,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,0,1,7,3,0.3888888888888889,1,1,0,1,4
+Kost Ekslusive Daerah Denpasar,1800000,denpasar,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,7,6,0.3888888888888889,1,4,1,1,4
+Rumah kost nyaman di nusa dua bali,800000,denpasar,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,6,4,0.3333333333333333,0,3,0,1,4
+"Kost Putri jalan Bedugul no.16 Gg. Mawar Sidakarya, Denpasar",1500000,denpasar,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Kost Samblung Mas Denpasar Selatan Denpasar,3500000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,1,4
+kos elite,1500000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,7,5,0.3888888888888889,1,3,0,1,4
+Kos khusus putri dekat UnUd,700000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0.16666666666666666,0,0,0,1,4
+Kost 17 Melangit Vvip Denpasar Selatan Denpasar,2500000,denpasar,1,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,1,8,4,0.4444444444444444,1,2,0,1,4
+Shunda Kost (Tipe B),1500000,denpasar,1,0,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,11,5,0.6111111111111112,1,3,0,1,4
+ã€Renonã€‘Kos Putri Lengkap(1orang/kmr) (Bangunan Baru),1650000,denpasar,1,1,1,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,9,6,0.5,1,4,1,1,4
+Sewa kos murah kepundung,1500000,denpasar,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,6,2,0.3333333333333333,0,0,0,1,4
+Kost Unit Minimalis Mertha Yoga 5 Tipe A Denpasar Barat Denpasar,3500000,denpasar,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kost Murah Daerah Denpasar (Tipe B),2600000,denpasar,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Terima Kost Daerah Panjer Denpasar,1200000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,2,0.2222222222222222,0,1,0,1,4
+Kostku79,1700000,denpasar,1,1,1,1,0,0,1,1,1,0,0,0,1,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Kost Lili Residence Denpasar Timur Denpasar (Suite),4000000,denpasar,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,14,7,0.7777777777777778,1,5,1,1,4
+INDAH RESIDENCE,1700000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Elite di Sanur,3000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,6,4,0.3333333333333333,1,3,0,1,4
+Kos Eksekutif seputaran Kerobokan,1500000,denpasar,1,0,1,1,0,0,0,1,0,1,0,1,1,1,0,0,0,1,9,4,0.5,1,2,0,1,4
+Kost Exclusive Ganggas Homestay (Bangunan Baru),2900000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Rumah Kos Funished Ohanna Group,2200000,denpasar,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,8,7,0.4444444444444444,1,5,1,1,4
+Kost Kartika Denpasar Utara Denpasar,2000000,denpasar,1,1,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,1,9,6,0.5,1,4,1,1,4
+Kost Thamrin Recidence Standard Denpasar Barat Denpasar,3500000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Kamar Kos Semi Komplit di Denpasar (Tipe B),700000,denpasar,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,1,0.1111111111111111,0,0,0,1,4
+Kost Green Forest VIP Plus Denpasar Timur Denpasar (Promo),3250000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+KOST LENGKAP DENPASAR BULU INDAH,2300000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,4,0.2777777777777778,1,2,0,1,4
+Kost Elit Renon Paras Residence,2150000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,1,9,7,0.5,1,5,1,1,4
+Kost Indah Winda Denpasar Utara Denpasar (Eksklusif),1700000,denpasar,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,1,9,4,0.5,1,2,0,1,4
+Rumah kost nyaman,1900000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kost dikota Denpasaar,700000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost Candra Tipe B Denpasar Timur Denpasar,1750000,denpasar,1,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,1,7,3,0.3888888888888889,1,1,0,1,4
+Kost I Ketut SBY Tipe A Denpasar Selatan Denpasar (Eksklusif),2050000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Sewa paviliun mezzanine fasilitas lengkap bisa bayar bulanan (Tipe B),2650000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+KOST ELIT JADIN RESIDENCE,2500000,denpasar,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,0,1,1,12,8,0.6666666666666666,1,6,1,1,4
+"kamar kos denpasar furnish, murah, udah termasuk listrik air",1700000,denpasar,1,1,1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+OYO 1258 Balitone Residence,3500000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,1,4
+Kos pusat kota denpasar mahendradatta uma inn,1200000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kost Raditya 2 Denpasar Barat Denpasar,2500000,denpasar,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+"KOST ELIT ! HARIAN / BULANAN, KOSONGAN / LENGKAP",675000,denpasar,1,0,0,1,0,0,1,1,1,0,0,0,1,0,1,0,0,1,8,4,0.4444444444444444,0,3,0,1,4
+Rumah Kost Execuitve Pria / Wanita,850000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0.16666666666666666,1,1,0,1,4
+Kost Di Atena Seminyak Bali (Bangunan Baru),2850000,denpasar,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,7,6,0.3888888888888889,1,5,1,1,4
+Kost Putra Nyaman Strategis Full wifi dekat TSM (Bangunan Baru),1300000,denpasar,1,1,1,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,9,5,0.5,1,3,0,1,4
+Terima kost,600000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0.05555555555555555,0,0,0,1,4
+APARTEMEN MARINA SUITE,2500000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Baru untuk Bujang/Single Daerah Kota DENPASAR,850000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost Pondok 888 Denpasar Barat Denpasar,2835000,denpasar,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,15,7,0.8333333333333334,1,5,1,1,4
+Kamar kos murah free wifi denpasar bali,1600000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Semeton Ceria Deluxe Denpasar Selatan Denpasar,2800000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,0,1,0,0,0,1,9,5,0.5,1,3,0,1,4
+Indekos seminyak murah,1000000,denpasar,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,6,6,0.3333333333333333,1,4,1,1,4
+PROMO KOST FASILITAS LENGKAP NYAMAN DAN STRTEGIS !!,1800000,denpasar,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,8,5,0.4444444444444444,1,4,1,1,4
+AGUNG RESIDENCE KOST EKSKLUSIF VIEW SAWAH,1700000,denpasar,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,1,0,1,12,7,0.6666666666666666,1,5,1,1,4
+DOKTER KOST FASILITAS LIFT PARKIR LUAS,5000000,denpasar,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Kost Cazaloka Denpasar Selatan (Eksklusif),2500000,denpasar,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,1,14,6,0.7777777777777778,1,4,1,1,4
+kost murah dekat petitenget dan seminyak denpasar,700000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.1111111111111111,1,1,0,1,4
+Kost Cazaloka Denpasar Selatan (Suite),2500000,denpasar,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,1,14,6,0.7777777777777778,1,4,1,1,4
+"TERIMA KOS HARIAN/BULANAN, LINGKUNGAN ELIT!",650000,denpasar,1,0,0,1,0,0,1,1,1,0,0,0,1,0,1,1,0,1,9,4,0.5,0,3,0,1,4
+Kos Elite di Renon,3000000,denpasar,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,7,5,0.3888888888888889,1,4,1,1,4
+Kost Roa Denpasar Selatan Denpasar,5000000,denpasar,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,0,1,11,6,0.6111111111111112,1,4,1,1,4
+Kos Bersih Tenang Strategis & Aman : OLIVIA INN DENPASAR,3000000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,0.16666666666666666,1,2,0,1,4
+Kost Puri Soka Indah 2 Tipe A Denpasar Timur Denpasar,3000000,denpasar,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Kost Baru murah dan lengkap Gatot subroto barat,1000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,1,8,5,0.4444444444444444,1,3,0,1,4
+Kos kosongan Panjer,800000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+KOST MURAH DI PUSAT KOTA DENPASAR,900000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kos Exclusive di Renon,1700000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,1,0,0,9,6,0.5,1,5,1,1,4
+Kost Fasilitas Lengkap Nyaman Teuku Umar Barar,1300000,denpasar,1,1,1,1,0,1,0,1,0,1,0,1,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Kamar Kost,1000000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0.16666666666666666,1,1,0,1,4
+"Kost Exclusive(Dekat Carrefour, Mall, Airport, Kuta, Seminya",1800000,denpasar,1,1,1,1,0,0,1,1,1,1,0,0,1,0,1,1,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Kost Vas Living Gatot Subroto Timur Denpasar Timur Denpasar,2100000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Elit Puri Segina Denpasar Barat Denpasar,3250000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,1,4
+"Kost Lengkap & Nyaman, Villa Prana D'Uma, Denpasar. (Suite)",3000000,denpasar,1,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Vkost V Tipe V1 Denpasar Selatan Denpasar,2650000,denpasar,1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+Kost lengkap Di Kunti Seminyak Bali,2600000,denpasar,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,7,6,0.3888888888888889,1,5,1,1,4
+Kost style Villa di daerah kerobokan dekat seminyak (Promo),2800000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Koku Renon 1 Tipe C1 Denpasar Selatan Denpasar,2800000,denpasar,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,5,4,0.2777777777777778,1,2,0,1,4
+Kost Sanes Living Denpasar Selatan Denpasar,2500000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Koi 1 Serviced Residence Vine Denpasar Barat Denpasar,3000000,denpasar,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,0,1,13,6,0.7222222222222222,1,4,1,1,4
+Dewata Kost (Eksklusif),650000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4
+Kost Modern Kunti Seminyak Bali (Bangunan Baru),2450000,denpasar,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,7,6,0.3888888888888889,1,5,1,1,4
+Kost di daerah Renon Denpasar (Bangunan Baru),700000,denpasar,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,5,4,0.2777777777777778,1,2,0,1,4
+Kost Putri atau Pasutri di Glogor Carik Denpasar Selatan,2200000,denpasar,1,0,1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,1,13,5,0.7222222222222222,1,3,0,1,4
+Kost Elite di Renon (Bangunan Baru),1700000,denpasar,1,1,1,0,0,1,0,1,1,0,0,0,1,0,0,0,1,1,9,7,0.5,1,5,1,1,4
+Kos Eksklusif Cozzy Residence,4000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,7,5,0.3888888888888889,1,3,0,1,4
+Kost Vkost Elite Tipe E2 Denpasar Selatan Denpasar,2950000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kos Murah Nyaman dan Strategis di Renon Dekat Sanur (Eksklusif),750000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Joglo,4600000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.1111111111111111,1,1,0,1,4
+Kost Ubung Tipe A Denpasar Utara Denpasar,1700000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Saraswati Denpasar Utara Denpasar,2200000,denpasar,0,0,1,1,0,0,0,1,1,0,0,1,1,1,1,1,0,1,10,4,0.5555555555555556,0,2,0,1,4
+Kost Koi Residence Deluxe Denpasar Barat Denpasar,4500000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Juliette Residence,1500000,denpasar,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,9,6,0.5,1,4,1,1,4
+Arezka Dewata House ( Kost Elite Baru ),1400000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,6,5,0.3333333333333333,1,3,0,1,4
+Kost Green Forest VIP Plus Denpasar Timur Denpasar (Bangunan Baru),3200000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+kos di gunung salak,800000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Tempat kost bulanan,750000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0.16666666666666666,0,0,0,1,4
+Kos-kosan di denpasar (Promo),1300000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,5,3,0.2777777777777778,1,1,0,1,4
+Kos putri Denpasar Kota,1200000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,0.2222222222222222,1,1,0,1,4
+Kost Pedungan Tipe A Denpasar Selatan Denpasar (Eksklusif),2550000,denpasar,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,14,6,0.7777777777777778,1,4,1,1,4
+Kost Joglo,3500000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Fasilitas Lengkap Di Denpasar,1300000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+"Murahhh,m gues house di daerah premium",2200000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Pattimura Living Vvip Denpasar Utara Denpasar,3700000,denpasar,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Kost Sammy House Denpasar Selatan Denpasar,3600000,denpasar,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,7,5,0.3888888888888889,1,3,0,1,4
+Paviliun kost,1200000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0.1111111111111111,0,0,0,1,4
+Rai Kost (Nyaman dan Aman),3000000,denpasar,1,1,1,1,0,0,0,1,1,1,0,1,0,0,0,0,0,1,9,4,0.5,1,2,0,1,4
+Rumah kost,1900000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kost Fasilitas Lengkap di Denpasar,2000000,denpasar,1,0,1,1,0,1,0,1,0,1,0,1,1,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Grand Pondok Puri Ayu Denpasar,2500000,denpasar,1,0,1,1,0,0,0,1,1,1,0,0,1,0,1,0,0,1,9,5,0.5,1,3,0,1,4
+Sentrakos Vila Lumba,1500000,denpasar,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,0,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Kost Akila Executive Standard Room Denpasar Utara Denpasar,2750000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+TERIMA KOST LENGKAP DAN MURAH! LOKASI STRATEGIS! (Tipe B),1050000,denpasar,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+Kost Bali Yuai Tipe B Denpasar Barat,1900000,denpasar,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,4,2,0.2222222222222222,0,0,0,1,4
+Rumah kos Dewa Bharata,2000000,denpasar,1,1,1,1,0,0,0,1,0,1,0,1,1,0,1,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Kost 21 Dorm Executif 3 Denpasar Selatan Denpasar,2700000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Terima Kost Daerah Panjer Denpasar Selatan,1000000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,0.16666666666666666,0,1,0,1,4
+Fun Living Guest House (Executive Studio) - Premium Serviced (Eksklusif),4850000,denpasar,1,1,1,1,1,1,0,1,1,1,0,0,1,0,1,0,0,1,12,7,0.6666666666666666,1,5,1,1,4
+"Kos baru lokasi strategis, dekat sanur airport kuta sunset r",2400000,denpasar,1,1,1,1,0,0,0,0,0,1,0,1,1,0,1,0,0,1,9,6,0.5,1,4,1,1,4
+Riverside VIP kost KUBU VILLAGE asri tengah sawah,1200000,denpasar,1,0,1,1,0,0,0,0,1,1,1,1,0,1,0,0,0,1,9,3,0.5,1,1,0,1,4
+Kost Rumah Plawa 62 Tipe A Denpasar Timur Denpasar,2300000,denpasar,1,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,1,11,5,0.6111111111111112,1,3,0,1,4
+Kos istimewa di kota Denpasar,1800000,denpasar,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,5,4,0.2777777777777778,1,3,0,1,4
+Kos Putri Denpasar: Nyaman dan Strategis,700000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+KOST TEUKU UMAR UTK KARYAWATI,2000000,denpasar,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,3,0.2222222222222222,1,1,0,1,4
+Kost Lengkap di Pusat Kota,800000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kost excludive bisa untuk pasutri,1800000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Made Bali Tipe A Denpasar Barat Denpasar (Bangunan Baru),2400000,denpasar,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Kost Kana Residence Tipe A Denpasar Barat Denpasar (Eksklusif),3550000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,0,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Kost Naiika Co Living Tipe Single Room Denpasar Selatan Denpasar (Promo),3500000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost G Loft Studio Tipe A Denpasar Barat Denpasar,4500000,denpasar,1,1,1,0,1,1,0,1,1,0,0,1,1,1,0,0,0,1,11,6,0.6111111111111112,1,4,1,1,4
+Kost komplit di gatsu barat,1750000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kost Akata Denpasar Utara Denpasar,3500000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Kost Green Forest VIP Denpasar Timur Denpasar,2810000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Disewakan Kamar Kos Gunung Salak,800000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,6,4,0.3333333333333333,1,2,0,1,4
+Kost Citarum 3 Denpasar Selatan Denpasar,2800000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Rumah Kost Exclusive di Gatsu Barat,1300000,denpasar,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Kos BEKISAR Residence Denpasar Selatan Promo (Suite),1600000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Lengkap Nyaman Murah di Teuku Umar Barat (Marlboro) Den (Promo),1700000,denpasar,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Torinari Residence Denpasar Barat Denpasar,3000000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Kos2an green dan nyaman,1900000,denpasar,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1,0,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Kost Kusuma Sari Denpasar Utara Denpasar,1800000,denpasar,1,0,1,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,9,5,0.5,1,3,0,1,4
+Kosan Panjer,1400000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0.16666666666666666,1,1,0,1,4
+Terima kos di penatih,600000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kos lengkap 950rb teuku umar barat,950000,denpasar,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,6,3,0.3333333333333333,1,1,0,1,4
+Rain Residence (Tipe B),2600000,denpasar,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Sewa paviliun mezzanine fasilitas lengkap bisa bayar bulanan (Eksklusif),2800000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+Saren Bali,2500000,denpasar,1,1,1,1,0,0,0,1,1,1,0,0,1,0,1,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+kost fasilitas lengkap di denpasar,2500000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+Kost Murah Denpasar Bali,650000,denpasar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Moca Tipe A Denpasar Selatan Denpasar,2500000,denpasar,1,0,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,9,5,0.5,1,3,0,1,4
+Kosanku Bali,975000,denpasar,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,8,4,0.4444444444444444,1,2,0,1,4
+Kost Indah Winda Denpasar Utara Denpasar (Bangunan Baru),2100000,denpasar,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,1,9,4,0.5,1,2,0,1,4
+Kost Mahardana Tipe VIP Denpasar Selatan Denpasar,3000000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Green Forest Standart Denpasar Timur Denpasar (Bangunan Baru),2200000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Kost Umah Sentosa Denpasar Barat Denpasar,3200000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Kost Rumah Kita,800000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kos Mahajaya Denpasar (Promo),2650000,denpasar,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,8,5,0.4444444444444444,1,4,1,1,4
+Denpasar Kost Murah Fasilitas Menengah,1870000,denpasar,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,8,5,0.4444444444444444,1,3,0,1,4
+"Kost Elit, Nyaman di Panjer",1750000,denpasar,1,0,1,1,0,0,1,1,1,1,0,0,1,0,1,0,1,1,11,6,0.6111111111111112,1,4,1,1,4
+Kost Pidada V Residence Vip Ac Denpasar Utara Denpasar,2250000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Rumah Pamongan Denpasar Selatan Denpasar,3000000,denpasar,1,0,1,0,1,1,0,1,1,0,0,1,1,1,0,1,0,1,11,5,0.6111111111111112,1,3,0,1,4
+KOS FASILITAS LENGKAP VIEW SAWAH,1250000,denpasar,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,6,4,0.3333333333333333,1,2,0,1,4
+Hunian Kost Baru dan Terjangkau di Denpasar - Diasta kos,1200000,denpasar,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Rumah Putih Tipe B Denpasar Selatan Denpasar,2100000,denpasar,1,0,1,0,0,1,0,1,0,0,0,1,0,1,1,0,0,1,8,5,0.4444444444444444,1,3,0,1,4
+Kos lengkap murah dan nyaman di Denpasar (Promo),1100000,denpasar,1,0,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+"Kos putri denpasar kota, tenang lengkap",1200000,denpasar,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,5,3,0.2777777777777778,1,1,0,1,4
+Kost Vkost V Tipe V2 Denpasar Selatan Denpasar,2750000,denpasar,1,0,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0,1,8,5,0.4444444444444444,1,3,0,1,4
+full funrished,2500000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,7,5,0.3888888888888889,1,3,0,1,4
+Sewa Paviliun dan Kost exclusive di Denpasar,1750000,denpasar,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,4,0.2777777777777778,1,3,0,1,4
+Kost R Suite Vvip Denpasar Selatan Denpasar,3500000,denpasar,1,1,1,0,1,1,0,1,1,0,0,1,1,1,0,0,0,1,11,6,0.6111111111111112,1,4,1,1,4
+"Kost Nyaman, Strategis, Luas di Jl. Ratna Denpasar",1750000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Sewa kost di pusat kota denpasar,1200000,denpasar,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,6,4,0.3333333333333333,1,2,0,1,4
+Sewa Paviliun keluarga / Pasutri Denpasar,2600000,denpasar,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,6,3,0.3333333333333333,1,2,0,1,4
+kos murah,700000,denpasar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,4,2,0.2222222222222222,0,1,0,1,4
+Kos-kosan  dekat akses jl By Pass Ngurah Rai,700000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,2,0.2222222222222222,0,0,0,1,4
+Kost The Denok Tegal Kertha Denpasar Barat Denpasar,3000000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Studio 1 Residence (Daily / Weekly / Monthly) (Promo),3900000,denpasar,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,12,7,0.6666666666666666,1,5,1,1,4
+KOSAN BANJAR,1500000,denpasar,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+Denpasar Kost Murah Fasilitas Menengah (Bulanan),1870000,denpasar,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,8,5,0.4444444444444444,1,3,0,1,4
+Terima Kos-Kosan DaYOJo#elite# 081236659659,850000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,6,4,0.3333333333333333,1,3,0,1,4
+Kost Caera Denpasar Selatan Denpasar,3300000,denpasar,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,0,1,13,6,0.7222222222222222,1,4,1,1,4
+Kost Akila Karna 8 Family Suite Denpasar Utara Denpasar,4500000,denpasar,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,0,0,1,12,7,0.6666666666666666,1,5,1,1,4
+"Kost exclusive Denpasar, Bali",2000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+"Kos Elit - Terima Kos Harian, mingguan, dan Bulanan (Fasilit",1800000,denpasar,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Kost AbianPrasta Denpasar,3000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Keluarga di Denpasar,2600000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+Kost Griya Pesanggaran Denpasar Selatan,3000000,denpasar,1,0,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Sewa Kost Mingguan dan Bulanan Murah (Tipe B),1450000,denpasar,1,0,1,1,0,0,1,0,1,1,1,0,1,0,1,1,0,1,11,5,0.6111111111111112,1,3,0,1,4
+GUEST HOUSE PELITA SARI 1,1500000,denpasar,1,1,1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,9,5,0.5,1,3,0,1,4
+Vkost E Kota Denpasar,2800000,denpasar,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,1,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Kos Baru (Bangunan Baru),2150000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+"Pondok Chomel, Sanur, Bali. The Studio. (Bangunan Baru)",3250000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.1111111111111111,1,1,0,1,4
+Hokky kost kosongan Tukad Badung Utama (pinggir jalan besar),1000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kayika House (Tipe B),1500000,denpasar,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,5,4,0.2777777777777778,1,2,0,1,4
+Kost Merdeka,2500000,denpasar,1,0,1,1,0,1,1,1,0,1,0,1,1,1,0,0,0,1,11,5,0.6111111111111112,1,3,0,1,4
+Full furnished appartement living room kitchen bathroom bedr,4600000,denpasar,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Rumah Kost Lengkap di pusat kota (Tipe B),800000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kost Halmahera 25 (Suite),1650000,denpasar,1,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+kos baru murah gatsu tengah (Tipe B),650000,denpasar,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Gang Surya 11 Full Furnish Denpasar Selatan Denpasar (Bangunan Baru),1800000,denpasar,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,1,0,1,10,4,0.5555555555555556,1,2,0,1,4
+Kost Hotel Tiana Denpasar Utara Denpasar,2300000,denpasar,1,0,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,9,5,0.5,1,3,0,1,4
+kos elite apartemen sanur (Tipe B),3000000,denpasar,1,1,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0,1,9,7,0.5,1,5,1,1,4
+Kost Lengkap Nyaman Murah di Teuku Umar Barat (Marlboro) Den (Eksklusif),2000000,denpasar,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Geria Denpasar Selatan Denpasar,3300000,denpasar,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,0,13,6,0.7222222222222222,1,5,1,1,4
+Kamar Kost Krobokan Raya,3500000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Bali Yuai Tipe A Denpasar Barat (Bangunan Baru),2500000,denpasar,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,6,3,0.3333333333333333,1,1,0,1,4
+Sewa Kamar Kos Di Denpasar Bali,900000,denpasar,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,6,3,0.3333333333333333,0,2,0,1,4
+Kost The Manikan Deluxe Denpasar Utara Denpasar (Suite),3500000,denpasar,1,0,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+Kost Ddeks Home Stay Denpasar Timur Denpasar,3000000,denpasar,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,0,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Kost Nalia Denpasar Selatan Denpasar (Suite),1800000,denpasar,1,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,0,1,10,5,0.5555555555555556,1,3,0,1,4
+kost fasilitas lengkap,2500000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,8,6,0.4444444444444444,1,5,1,1,4
+Kos Murah Nyaman dan Strategis di Renon Dekat Sanur (Eksklusif),850000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+KOST MURAH!! LOKASI STRATEGIS D TENGAH KOTA,1200000,denpasar,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,6,3,0.3333333333333333,1,2,0,1,4
+Kost Jobal Living House Reguler Denpasar Selatan Denpasar,3000000,denpasar,1,1,1,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Kost Omah Akasia Denpasar Timur Denpasar,2500000,denpasar,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,1,0,1,11,5,0.6111111111111112,1,3,0,1,4
+Kost Murah Harga Terjangkau DENPASAR (Eksklusif),1700000,denpasar,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,1,1,14,8,0.7777777777777778,1,6,1,1,4
+Hunian Nyaman di Denpasar Selatan,1200000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Sewa Kamar Kost Putri Sekitar Kampus Unud Sudirman,600000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost TSM Bali (full furnished) (Bangunan Baru),1700000,denpasar,1,1,1,1,0,0,0,1,1,1,1,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,1,4
+Kost Melati Executive A Denpasar Barat Denpasar (Bangunan Baru),2200000,denpasar,1,1,1,0,1,1,0,1,1,0,0,1,0,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Kost seperti homestay (Tipe B),2350000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,0.16666666666666666,1,2,0,1,4
+Kost Cempaka Denpasar Selatan Denpasar,2300000,denpasar,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,5,1,0.2777777777777778,0,0,0,1,4
+"Pondiok Chomel in Sanur, Bali. The Suite",4200000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.1111111111111111,1,1,0,1,4
+Kost Saka Pedungan Denpasar Selatan (Bangunan Baru),1300000,denpasar,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Vkost Elite Tipe E1 Denpasar Selatan Denpasar,3050000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Studio 1 Residence (Daily / Weekly / Monthly) (Bangunan Baru),3650000,denpasar,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,12,7,0.6666666666666666,1,5,1,1,4
+Kost Paramita Tipe C Denpasar Utara Denpasar,2200000,denpasar,1,0,1,0,1,0,0,1,0,0,0,0,1,1,0,1,0,1,8,4,0.4444444444444444,1,2,0,1,4
+kost murah di denpasar Finolia residance syariah (Bangunan Baru),1750000,denpasar,1,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+Kost Aman dan Nyaman Putra/Putri (Eksklusif),650000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost Oceani Exclusive Denpasar Timur Denpasar,2800000,denpasar,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Kos panjer deket kampus udayana,900000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost Aman dan Nyaman Putra/Putri,600000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Permata Kost Bali (Suite),1800000,denpasar,1,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,1,4
+Kost Made Bali Tipe A Denpasar Barat Denpasar,2200000,denpasar,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Kos tenang dukuhsari sesetan,750000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0.16666666666666666,1,1,0,1,4
+Kost Green Forest Standart Denpasar Timur Denpasar,2510000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Kost Nikki La Executive Denpasar Selatan Denpasar (Tipe B),2650000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Kost Gang Surya 11 Full Furnish Denpasar Selatan Denpasar,2000000,denpasar,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,1,0,1,10,4,0.5555555555555556,1,2,0,1,4
+Kost Murah Daerah Denpasar (Bangunan Baru),2750000,denpasar,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Tukad Melangit Panjer Tipe A Denpasar Selatan Denpasar,2503000,denpasar,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,5,3,0.2777777777777778,1,1,0,1,4
+Kost Badak Agung Exclusive Denpasar,1400000,denpasar,1,0,1,1,0,0,0,0,0,1,0,1,1,0,1,1,0,0,8,4,0.4444444444444444,1,3,0,1,4
+Stay At Renon,1020000,denpasar,1,1,1,1,0,1,0,1,0,1,1,0,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Kost Putri Singaraja Buleleng Bali (Tipe B),4400000,denpasar,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,1,7,3,0.3888888888888889,0,1,0,1,4
+Kost Anyelir (Promo),1500000,denpasar,1,0,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost TSM Bali (full furnished),1600000,denpasar,1,1,1,1,0,0,0,1,1,1,1,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,1,4
+Kost Murah Harga Terjangkau DENPASAR,1500000,denpasar,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,1,1,14,8,0.7777777777777778,1,6,1,1,4
+Rumah Kost Lengkap di pusat kota,800000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,1,4
+Kost JC Boutique Superior Denpasar Selatan Denpasar,3150000,denpasar,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Kost Dejabu Studio Denpasar Selatan Denpasar (Suite),3800000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kos Sawah View (Tipe B),1100000,denpasar,1,1,1,1,0,1,0,1,0,0,0,1,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+BAMBOO RESIDENCE (Tipe B),1750000,denpasar,1,0,1,1,1,0,0,0,0,1,0,1,0,0,1,0,0,0,7,3,0.3888888888888889,1,2,0,1,4
+Kos area Dalung,700000,denpasar,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.05555555555555555,0,0,0,1,4
+Kost Nalia Denpasar Selatan Denpasar,1600000,denpasar,1,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Ni made sri ermawati (Eksklusif),750000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4
+Kost full furnished (Promo),1400000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,0.16666666666666666,1,2,0,1,4
+Kost Putra Nyaman Strategis Full wifi dekat TSM,1400000,denpasar,1,1,1,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,9,5,0.5,1,3,0,1,4
+Sewa Paviliun Murah Fasilitas Lengkap,2500000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kosanmu Bali,1400000,denpasar,1,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,1,1,12,7,0.6666666666666666,1,5,1,1,4
+Kost I Ketut SBY Tipe A Denpasar Selatan Denpasar,2000000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost The Manikan Deluxe Denpasar Utara Denpasar (Suite),3700000,denpasar,1,0,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+Kost Saka Pedungan Denpasar Selatan,1500000,denpasar,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Bali Yuai Tipe A Denpasar Barat,2300000,denpasar,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,6,3,0.3333333333333333,1,1,0,1,4
+Kos Nyaman Renon Denpasar,2000000,denpasar,1,0,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+"Kost Strategis di Renon Denpasar dekat Panjer,Sanglah,Sanur",725000,denpasar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Naiika Co Living Tipe Single Room Denpasar Selatan Denpasar,4000000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Penginapan Budha Kebar,1700000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,6,4,0.3333333333333333,1,3,0,1,4
+Kost full furnished,1500000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,0.16666666666666666,1,2,0,1,4
+Penginapan Budha Kebar (Tipe B),1500000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,6,4,0.3333333333333333,1,3,0,1,4
+Kost PUTRI Bali Double Room (bisa berdua) Monang-Maning Denp (Bangunan Baru),2450000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,6,4,0.3333333333333333,1,2,0,1,4
+Kost Elite di Renon (Tipe B),1700000,denpasar,1,1,1,0,0,1,0,1,1,0,0,0,1,0,0,0,1,1,9,7,0.5,1,5,1,1,4
+Kos Murah Nyaman dan Strategis di Renon Dekat Sanur,800000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kos Murah (Suite),650000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost Dauh Tubuh Residence Tipe B Denpasar Selatan Denpasar (Bangunan Baru),3100000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Kost Lengkap & nyaman (Bangunan Baru),2800000,denpasar,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,0.2222222222222222,1,3,0,1,4
+Kos kosan murah di renon (Eksklusif),700000,denpasar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Modern Kunti Seminyak Bali,2600000,denpasar,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,7,6,0.3888888888888889,1,5,1,1,4
+Kost Malano Residence Executive 1 Denpasar Selatan Denpasar (Eksklusif),2600000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Studio 1 Residence (Daily / Weekly / Monthly),3400000,denpasar,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,12,7,0.6666666666666666,1,5,1,1,4
+kost dipusat kota Denpasar,1300000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0.16666666666666666,1,1,0,1,4
+"Kostku79 bersih, tenang dan nyaman. (Bangunan Baru)",1550000,denpasar,1,1,1,1,0,0,1,1,1,0,0,0,1,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+"kost murah berfasilitas lengkap di denpasar, bali",1500000,denpasar,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,13,7,0.7222222222222222,1,5,1,1,4
+"Kost dengan Fasilitas Lengkap di Gelogor Carik, Denpasar - B",1100000,denpasar,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,11,7,0.6111111111111112,1,5,1,1,4
+KOS KOMPLIT  DENPASAR,2700000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,1,4
+Lili Residence,3000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+ã€Renonã€‘Kos Putri Lengkap(1orang/kmr),1700000,denpasar,1,1,1,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,9,6,0.5,1,4,1,1,4
+Graha Mahardana (Tipe B),1650000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,0.2222222222222222,1,2,0,1,4
+Kost Anyelir,1500000,denpasar,1,0,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kos Sawah View,1250000,denpasar,1,1,1,1,0,1,0,1,0,0,0,1,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+BAMBOO RESIDENCE,1800000,denpasar,1,0,1,1,1,0,0,0,0,1,0,1,0,0,1,0,0,0,7,3,0.3888888888888889,1,2,0,1,4
+Fun Living Guest House (Executive Studio) - Premium Serviced,4800000,denpasar,1,1,1,1,1,1,0,1,1,1,0,0,1,0,1,0,0,1,12,7,0.6666666666666666,1,5,1,1,4
+TERIMA KOST LENGKAP DAN MURAH! LOKASI STRATEGIS!,1100000,denpasar,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+Kost Kana Residence Tipe A Denpasar Barat Denpasar,3200000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,0,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Dewata Kost (Eksklusif),800000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4
+Kos BEKISAR Residence Denpasar Selatan Promo,1500000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Mesari Kost Denpasar,2800000,denpasar,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1,0,1,13,6,0.7222222222222222,1,4,1,1,4
+Kost Lengkap & nyaman,2500000,denpasar,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,0.2222222222222222,1,3,0,1,4
+"kost murah berfasilitas lengkap di denpasar, bali (Tipe B)",1700000,denpasar,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,13,7,0.7222222222222222,1,5,1,1,4
+Kos area Dalung (Suite),750000,denpasar,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.05555555555555555,0,0,0,1,4
+PROMO GUEST HOUSE BULANAN MURAH DI SANUR BALI (Bangunan Baru),2650000,denpasar,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,1,1,11,8,0.6111111111111112,1,6,1,1,4
+Kost Guest House 34 Denpasar Barat Denpasar,4000000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Kos Mahajaya Denpasar,2500000,denpasar,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,8,5,0.4444444444444444,1,4,1,1,4
+Kost Umah Dewata Tipe A Denpasar Selatan Denpasar,2250000,denpasar,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,12,6,0.6666666666666666,1,4,1,1,4
+Kost Melati Executive A Denpasar Barat Denpasar,2100000,denpasar,1,1,1,0,1,1,0,1,1,0,0,1,0,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Kost Lengkap Di Denpasar,1600000,denpasar,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,6,4,0.3333333333333333,1,2,0,1,4
+Swari C Kos,1500000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Elit / Pemondokan/ Guest House GRAHA PANDE Residence (Tipe B),2300000,denpasar,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1,13,8,0.7222222222222222,1,6,1,1,4
+Kost seperti homestay,2500000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,0.16666666666666666,1,2,0,1,4
+Disewakan kost elite fully furnised,1500000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Lengkap Di Denpasar (Eksklusif),1600000,denpasar,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,6,4,0.3333333333333333,1,2,0,1,4
+Kost Mezzanine Jl. Pura Demak - Marlboro Denpasar Barat,1500000,denpasar,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,4,1,0.2222222222222222,0,0,0,1,4
+KOS BULANAN (Suite),2550000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,9,6,0.5,1,4,1,1,4
+"Kost exclusive pusat kota denpasar, bersih, nyaman (Eksklusif)",1700000,denpasar,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,9,5,0.5,1,3,0,1,4
+kost Exclusive Grand Emerald (Eksklusif),1900000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost Nikki La Executive Denpasar Selatan Denpasar (Suite),2400000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Kost style Villa di daerah kerobokan dekat seminyak,3000000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kos Baru,2000000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Malano Residence Executive 1 Denpasar Selatan Denpasar (Bangunan Baru),2900000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Kos Baru (Eksklusif),1700000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost The Manikan Deluxe Denpasar Utara Denpasar,3562000,denpasar,1,0,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+Kost Murah dan nyaman di denpasar,700000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4
+[PROMO] Kost di Pusat Renon (Harian/Bulanan) (Eksklusif),1700000,denpasar,1,1,1,1,0,0,0,1,1,1,0,1,1,0,1,1,1,1,13,7,0.7222222222222222,1,5,1,1,4
+"Kostku79 bersih, tenang dan nyaman.",1700000,denpasar,1,1,1,1,0,0,1,1,1,0,0,0,1,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Sewa kos,1400000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kos-kosan di denpasar,1500000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,5,3,0.2777777777777778,1,1,0,1,4
+Kost tenang dan nyaman,950000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost di daerah Renon Denpasar,800000,denpasar,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,5,4,0.2777777777777778,1,2,0,1,4
+Kost Exclusive Ganggas Homestay,3000000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Badak Agung Exclusive Denpasar (Tipe B),1250000,denpasar,1,0,1,1,0,0,0,0,0,1,0,1,1,0,1,1,0,0,8,4,0.4444444444444444,1,3,0,1,4
+Kos BEKISAR Residence Denpasar Selatan Promo (Eksklusif),1300000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Nikki La Executive Denpasar Selatan Denpasar,2700000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+kost murah di denpasar Finolia residance syariah,1600000,denpasar,1,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+Kost untuk disewa,1500000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Murah Daerah Sunset Road Seminyak (Eksklusif),2100000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,1,4
+Kost Lili Residence Denpasar Timur Denpasar,4000000,denpasar,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Kost Elit / Pemondokan/ Guest House GRAHA PANDE Residence (Bangunan Baru),2800000,denpasar,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1,13,8,0.7222222222222222,1,6,1,1,4
+Kost Green Forest VIP Plus Denpasar Timur Denpasar,2910000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+Kost Green Anggrek Mas Vip Denpasar Utara Denpasar (Suite),1700000,denpasar,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,13,6,0.7222222222222222,1,4,1,1,4
+Sewa paviliun mezzanine fasilitas lengkap bisa bayar bulanan,2600000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+Kost GuestHouse GG Tipe B Denpasar Barat Denpasar (Bangunan Baru),4500000,denpasar,1,1,1,0,0,1,0,1,0,0,0,1,1,0,1,1,0,1,10,7,0.5555555555555556,1,5,1,1,4
+PROMO GUEST HOUSE BULANAN MURAH DI SANUR BALI,2500000,denpasar,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,1,1,11,8,0.6111111111111112,1,6,1,1,4
+Rain Residence,2500000,denpasar,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,12,7,0.6666666666666666,1,5,1,1,4
+Kost Kadesssa Tipe Reguler Denpasar Selatan Denpasar (Tipe B),2200000,denpasar,1,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,8,4,0.4444444444444444,1,2,0,1,4
+Kost Elite di Renon,1700000,denpasar,1,1,1,0,0,1,0,1,1,0,0,0,1,0,0,0,1,1,9,7,0.5,1,5,1,1,4
+Kost Elit / Pemondokan/ Guest House GRAHA PANDE Residence,2500000,denpasar,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1,13,8,0.7222222222222222,1,6,1,1,4
+Stay At Renon (Suite),1000000,denpasar,1,1,1,1,0,1,0,1,0,1,1,0,1,0,1,0,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Kost tenang dan nyaman (Tipe B),850000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Kost Guest House 34 Denpasar Barat Denpasar (Tipe B),4100000,denpasar,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,14,7,0.7777777777777778,1,5,1,1,4
+Shunda Kost,1400000,denpasar,1,0,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,11,5,0.6111111111111112,1,3,0,1,4
+Kost Dejabu Studio Denpasar Selatan Denpasar,3500000,denpasar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,1,4
+Graha Mahardana,1500000,denpasar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,0.2222222222222222,1,2,0,1,4
+Kamar Kos Semi Komplit di Denpasar,750000,denpasar,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,1,0.1111111111111111,0,0,0,1,4
+Kost The Manikan Deluxe Denpasar Utara Denpasar (Bangunan Baru),3150000,denpasar,1,0,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+"Kost Kosongan Murah di Renon, Dekat UNUD, UNDIKNAS, WARMADEW (Bangunan Baru)",950000,denpasar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Ubung Standart Denpasar Utara Denpasar,3250000,denpasar,1,1,1,1,0,0,1,0,1,1,0,1,1,1,0,0,0,1,11,5,0.6111111111111112,1,3,0,1,4
+Permata Kost Bali,1800000,denpasar,1,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,1,4
+Kost Malano Residence Executive 1 Denpasar Selatan Denpasar,2800000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+Kos Nyaman Renon Denpasar (Eksklusif),1950000,denpasar,1,0,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+"Kost Lengkap & Nyaman, Villa Prana D'Uma, Denpasar.",3500000,denpasar,1,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,1,8,6,0.4444444444444444,1,4,1,1,4
+[PROMO] Kost di Pusat Renon (Harian/Bulanan),1700000,denpasar,1,1,1,1,0,0,0,1,1,1,0,1,1,0,1,1,1,1,13,7,0.7222222222222222,1,5,1,1,4
+"Kost Kosongan Murah di Renon, Dekat UNUD, UNDIKNAS, WARMADEW",900000,denpasar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kos Murah,600000,denpasar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,1,4
+Kost Fun Living 001 Personal Studio Denpasar Barat Denpasar,4000000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+KOS BULANAN,2300000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,9,6,0.5,1,4,1,1,4
+Lili Residence (Tipe B),2800000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Kost PUTRI Bali Double Room (bisa berdua) Monang-Maning Denp,2150000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,6,4,0.3333333333333333,1,2,0,1,4
+Kost Gilisari Denpasar Selatan Denpasar,2700000,denpasar,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,1,9,3,0.5,1,1,0,1,4
+Kost Murah Daerah Sunset Road Seminyak,2200000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,1,4
+Kost Di Atena Seminyak Bali,2600000,denpasar,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,7,6,0.3888888888888889,1,5,1,1,4
+Kos kosan murah di renon,800000,denpasar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Disewakan kost elite fully furnised (Tipe B),1700000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Sewa kos (Eksklusif),1200000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Lengkap Nyaman Murah di Teuku Umar Barat (Marlboro) Den,1800000,denpasar,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+KOS KOMPLIT  DENPASAR (Suite),2900000,denpasar,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,1,4
+"Pondok Chomel, Sanur, Bali. The Studio.",3000000,denpasar,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.1111111111111111,1,1,0,1,4
+Puri Indra Kost Denpasar,4500000,denpasar,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,1,9,7,0.5,1,5,1,1,4
+Mesari Kost Denpasar (Tipe B),2400000,denpasar,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1,0,1,13,6,0.7222222222222222,1,4,1,1,4
+Kost Green Anggrek Mas Vip Denpasar Utara Denpasar,1950000,denpasar,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,13,6,0.7222222222222222,1,4,1,1,4
+Kost Ubung Standart Denpasar Utara Denpasar (Promo),2850000,denpasar,1,1,1,1,0,0,1,0,1,1,0,1,1,1,0,0,0,1,11,5,0.6111111111111112,1,3,0,1,4
+Kost Fasilitas Lengkap & Nyaman di Denpasar,1750000,denpasar,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+Dewata Kost,700000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4
+Kayika House,1500000,denpasar,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,5,4,0.2777777777777778,1,2,0,1,4
+Kost Fasilitas Lengkap & Nyaman di Denpasar (Eksklusif),1750000,denpasar,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+KOST BALI MERTASARI BEACH DENPASAR,4550000,denpasar,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,10,7,0.5555555555555556,1,5,1,1,4
+"Kost exclusive pusat kota denpasar, bersih, nyaman",1750000,denpasar,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,9,5,0.5,1,3,0,1,4
+Kost Harvest Denpasar Barat Denpasar,2640000,denpasar,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,1,4
+Kost Dauh Tubuh Residence Tipe B Denpasar Selatan Denpasar,3000000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,1,10,6,0.5555555555555556,1,4,1,1,4
+kos elite apartemen sanur,2600000,denpasar,1,1,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0,1,9,7,0.5,1,5,1,1,4
+Kost Putri Singaraja Buleleng Bali,4700000,denpasar,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,1,7,3,0.3888888888888889,0,1,0,1,4
+Kost Murah Daerah Denpasar,2600000,denpasar,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,8,6,0.4444444444444444,1,4,1,1,4
+Kost Fun Living 001 Personal Studio Denpasar Barat Denpasar (Bangunan Baru),4400000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0,1,9,6,0.5,1,4,1,1,4
+Kos lengkap murah dan nyaman di Denpasar,1100000,denpasar,1,0,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,1,10,5,0.5555555555555556,1,3,0,1,4
+KOS BULANAN (Tipe B),2450000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,9,6,0.5,1,4,1,1,4
+Kost Kadesssa Tipe Reguler Denpasar Selatan Denpasar,2550000,denpasar,1,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,8,4,0.4444444444444444,1,2,0,1,4
+kost Exclusive Grand Emerald,1700000,denpasar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,1,4
+kos baru murah gatsu tengah,650000,denpasar,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0.16666666666666666,0,0,0,1,4
+Kost Cazaloka Denpasar Selatan,2500000,denpasar,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,1,14,6,0.7777777777777778,1,4,1,1,4
+Kost Anasera Living Denpasar Selatan Denpasar,3000000,denpasar,1,1,1,0,0,1,0,1,1,0,0,1,1,0,1,1,0,1,11,7,0.6111111111111112,1,5,1,1,4
+Ni made sri ermawati,700000,denpasar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,4
+Kost GuestHouse GG Tipe B Denpasar Barat Denpasar,4300000,denpasar,1,1,1,0,0,1,0,1,0,0,0,1,1,0,1,1,0,1,10,7,0.5555555555555556,1,5,1,1,4
+Kost Indah Winda Denpasar Utara Denpasar,2000000,denpasar,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,1,9,4,0.5,1,2,0,1,4
+Kost Pedungan Tipe A Denpasar Selatan Denpasar,2500000,denpasar,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,14,6,0.7777777777777778,1,4,1,1,4
+Sewa Kost Mingguan dan Bulanan Murah,1400000,denpasar,1,0,1,1,0,0,1,0,1,1,1,0,1,0,1,1,0,1,11,5,0.6111111111111112,1,3,0,1,4
+Kost Halmahera 25,1500000,denpasar,1,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,7,4,0.3888888888888889,1,2,0,1,4
+Kost Murah (Suite),800000,gianyar,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,4,2,0.2222222222222222,0,0,0,0,5
+Kost maleo gianyar hub 082145530111,1300000,gianyar,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,6,3,0.3333333333333333,1,1,0,0,5
+Sewa kost ubud,800000,gianyar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,0,5
+Kost Mesari Sukawati Gianyar,1600000,gianyar,1,1,1,1,0,0,0,1,1,0,0,1,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,0,5
+OYO 190 Bsb Hotel (Eksklusif),2600000,gianyar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,0,5
+Kost Gianyar free wifi listrik air,800000,gianyar,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,6,4,0.3333333333333333,0,2,0,0,5
+Kost Sri Sedana Executive Gianyar,1800000,gianyar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,0,5
+kos Nyaman murah,700000,gianyar,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,0,0,0,5
+Kost PCA A18 Tipe B Sukawati Gianyar (Tipe B),1250000,gianyar,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,4,2,0.2222222222222222,0,0,0,0,5
+Kost Mesari 2 Sukawati Gianyar,1650000,gianyar,1,1,1,1,1,0,0,1,0,0,0,1,1,0,1,1,0,1,11,6,0.6111111111111112,1,4,1,0,5
+Kost Sakha House Tipe A Ubud Gianyar,4000000,gianyar,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,1,0,1,13,7,0.7222222222222222,1,5,1,0,5
+Kost PCA A18 Tipe B Sukawati Gianyar (Tipe B),1400000,gianyar,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,4,2,0.2222222222222222,0,0,0,0,5
+Kost Yuni House Executive Sukawati Gianyar,3000000,gianyar,1,0,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,1,12,6,0.6666666666666666,1,4,1,0,5
+Yosi Nunu guest house,2750000,gianyar,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,0.2222222222222222,1,2,0,0,5
+Kost PCA A18 Tipe B Sukawati Gianyar (Suite),1550000,gianyar,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,4,2,0.2222222222222222,0,0,0,0,5
+Kost Vira Garasi Tipe A Ubud Gianyar,3000000,gianyar,1,1,1,1,0,0,0,1,1,1,0,1,1,1,1,1,0,1,13,6,0.7222222222222222,1,4,1,0,5
+Kost Cozy Tipe C Ubud Gianyar,1800000,gianyar,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,5,3,0.2777777777777778,1,1,0,0,5
+KOST MURAH UBUD,900000,gianyar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,5,3,0.2777777777777778,0,1,0,0,5
+Kost Big Mango Gianyar,2500000,gianyar,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,1,0,1,11,5,0.6111111111111112,1,3,0,0,5
+Kost The Exklusive Sukawati Gianyar,1000000,gianyar,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0.1111111111111111,0,1,0,0,5
+(full) Kos,2000000,gianyar,1,1,1,1,0,1,0,1,1,0,1,1,0,0,1,0,0,1,11,6,0.6111111111111112,1,4,1,0,5
+Kost asta gianyar (Eksklusif),1300000,gianyar,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,6,3,0.3333333333333333,1,1,0,0,5
+KOS PAVILIUN BULANAN/TAHUNAN (Suite),2600000,gianyar,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,0,5
+OYO 612 Dante Guesthouse (Suite),4400000,gianyar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,0,5
+Kost PCA A18 Tipe B Sukawati Gianyar,1400000,gianyar,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,4,2,0.2222222222222222,0,0,0,0,5
+Kost Murah,750000,gianyar,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,4,2,0.2222222222222222,0,0,0,0,5
+Kost Sabua Gianyar (Promo),2200000,gianyar,1,0,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,9,5,0.5,1,3,0,0,5
+Kost Fiona (Promo),700000,gianyar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,4,2,0.2222222222222222,0,0,0,0,5
+OYO 612 Dante Guesthouse,4000000,gianyar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,0,5
+Kost Sabua Gianyar,2000000,gianyar,1,0,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,9,5,0.5,1,3,0,0,5
+Kost Fiona,700000,gianyar,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,4,2,0.2222222222222222,0,0,0,0,5
+Wisma Manggis Gianyar (Bangunan Baru),1550000,gianyar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,0,5
+Kost Eksklusif Sayan Ubud Bali (Eksklusif),3650000,gianyar,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,8,5,0.4444444444444444,1,3,0,0,5
+Kost Ayu Shanti Ubud Gianyar (Tipe B),1200000,gianyar,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,5,3,0.2777777777777778,0,1,0,0,5
+Wisma Manggis Gianyar,1800000,gianyar,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,3,0.2777777777777778,1,2,0,0,5
+KOS PAVILIUN BULANAN/TAHUNAN,2500000,gianyar,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,0,5
+Kost asta gianyar,1300000,gianyar,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,6,3,0.3333333333333333,1,1,0,0,5
+Kost Eksklusif Sayan Ubud Bali,4000000,gianyar,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,8,5,0.4444444444444444,1,3,0,0,5
+Kost Ayu Shanti Ubud Gianyar,1300000,gianyar,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,5,3,0.2777777777777778,0,1,0,0,5
+OYO 190 Bsb Hotel,2600000,gianyar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,0,5
+OYO 612 Dante Guesthouse (Promo),3700000,gianyar,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,7,4,0.3888888888888889,1,3,0,0,5
+Kost Barney Kamar 1 Jimbaran Badung,2000000,jimbaran,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555,0,0,0,2,6
+Kost Harmoni Tipe VVIP Karangasem,600000,karangasem,0,0,0,1,0,0,0,1,1,1,0,1,0,1,1,0,0,1,8,2,0.4444444444444444,0,1,0,0,7
+Kost Harmoni Tipe VVIP Karangasem (Suite),600000,karangasem,0,0,0,1,0,0,0,1,1,1,0,1,0,1,1,0,0,1,8,2,0.4444444444444444,0,1,0,0,7
+Kost Griya Santi Kediri Tabanan (Eksklusif),2200000,kediri,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,0,0,1,10,6,0.5555555555555556,1,4,1,1,8
+Kost Steppi Mezaine Kediri Badung (Suite),3600000,kediri,1,1,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,9,4,0.5,1,2,0,1,8
+Kost Griya Santi Kediri Tabanan,2500000,kediri,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,0,0,1,10,6,0.5555555555555556,1,4,1,1,8
+Kost Steppi Standart Room Kediri Tabanan,2800000,kediri,1,1,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,9,4,0.5,1,2,0,1,8
+Kost Steppi Mezaine Kediri Badung,3500000,kediri,1,1,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,9,4,0.5,1,2,0,1,8
+Kost Steppi Mezaine Kediri Badung (Tipe B),3600000,kediri,1,1,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,9,4,0.5,1,2,0,1,8
+Kost Steppi Standart Room Kediri Tabanan (Bangunan Baru),3150000,kediri,1,1,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,9,4,0.5,1,2,0,1,8
+Kost Dijobi Guest Houses Mengwi Badung,3000000,mengwi,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,14,6,0.7777777777777778,1,4,1,1,9
+Kost Divayo Mesari Tipe A Mengwi Badung,3200000,mengwi,1,0,1,1,0,0,0,1,1,0,0,1,1,0,1,1,0,1,10,5,0.5555555555555556,1,3,0,1,9
+Kost Dijobi Guest Houses Mengwi Badung (Bangunan Baru),3050000,mengwi,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,14,6,0.7777777777777778,1,4,1,1,9
+Teratai Kost,750000,tabanan,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0.2222222222222222,1,1,0,0,10
+Kost Sweet Home Tipe F Tabanan,2500000,tabanan,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,0,1,7,3,0.3888888888888889,1,1,0,0,10
