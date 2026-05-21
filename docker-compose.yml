@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  rent-prediction-api:
+    build: .
+    container_name: rent_prediction_api
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
