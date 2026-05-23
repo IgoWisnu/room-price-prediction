@@ -5,6 +5,7 @@ services:
     container_name: rent_prediction_api
     restart: always
     ports:
-      - "8000:8000"
+      - "8080:8000"
     environment:
       - PYTHONUNBUFFERED=1
+  

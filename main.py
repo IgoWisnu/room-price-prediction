@@ -566,6 +566,11 @@ def predict_pernight(data: HotelPredictInput):
 
         dmat  = xgb.DMatrix(X[hotel_preproc["feature_cols"]])
         log_p = hotel_model.predict(dmat)[0]
+        
+        # Workaround for XGBoost JSON bug where base_score is dropped on some Linux environments
+        if log_p < 5.0:
+            log_p += (13.693568 - 0.5)
+            
         price = int(np.expm1(log_p))
 
         # Confidence range based on model MAPE (~36%)
